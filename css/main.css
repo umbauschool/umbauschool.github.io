@@ -1,0 +1,204 @@
+/* ==================================================
+ *  umbauschool.org
+ * -------------------------------------------------- */
+
+
+/*
+ * BASE
+ */
+:root {
+  --gray-light: rgb(242, 242, 242);
+  --red: rgb(236, 51, 35);
+
+  --outside-border-top: 3.5vw;
+  --outside-border-width: 7.5vw;
+}
+
+::moz-selection {
+  background-color: var(--red);
+  color: white;
+}
+
+::selection {
+  background-color: var(--red);
+  color: white;
+}
+
+html,
+body {
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+/*
+ * UTILS
+ */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+
+
+/*
+ * HEADER
+ */
+.main-title {
+  align-items: center;
+  border-color: var(--gray-light);
+  border-style: solid;
+  border-width: var(--outside-border-top) var(--outside-border-width) 0;
+  box-sizing: border-box;
+  display: flex;
+  height: 100vh;
+  z-index: 50;
+}
+
+.site-name {
+  color: black;
+  font-size: 33.75vw;
+  font-weight: bold;
+  left: 0;
+  line-height: 1;
+  margin: 0;
+  margin-left: -2vw;
+  margin-top: -0.33em;
+  position: fixed;
+  top: 0;
+  transform: translateZ(0);
+  white-space: nowrap;
+}
+
+.site-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-name a:focus,
+.site-name a:hover {
+  color: var(--red);
+}
+
+.tag {
+  --negative-offset: calc(var(--outside-border-width) / -2);
+
+  color: var(--red);
+  font-size: 6vw;
+  font-weight: bold;
+  line-height: 1;
+  margin-left: var(--negative-offset);
+  max-width: 12em;
+  z-index: 60;
+}
+
+
+
+/*
+ * NAV
+ */
+.menu-trigger {
+  --negative-offset: calc(var(--outside-border-width) * -1);
+
+  left: 100%;
+  margin-left: var(--negative-offset);
+  margin-top: -8px;
+  padding: 8px 0;
+  position: fixed;
+  top: var(--outside-border-top);
+  transform: translateZ(0);
+  z-index: 110;
+}
+
+.menu-trigger::before,
+.menu-trigger::after {
+  --trigger-width: calc(var(--outside-border-width) * 2 / 3);
+
+  border-top: 10px solid var(--red);
+  content: "";
+  display: block;
+  height: 0;
+  transition: transform .2s;
+  width: var(--trigger-width);
+}
+
+.menu-trigger::before {
+  margin-bottom: 8px;
+}
+
+.has-main-menu-showing .menu-trigger::before {
+  transform: translate3d(0, 9px, 0) rotate(-225deg);
+}
+.has-main-menu-showing .menu-trigger::after {
+  transform: translate3d(0, -9px, 0) rotate(-135deg);
+}
+
+.main-menu {
+  background-color: black;
+  box-sizing: border-box;
+  display: none;
+  padding: var(--outside-border-top) var(--outside-border-width);
+  position: fixed;
+  top: 0;
+  transform: translateZ(0);
+  width: 100%;
+  z-index: 100;
+}
+
+.has-main-menu-showing .main-menu {
+  display: block;
+}
+
+.main-menu ul {
+  list-style: none;
+  margin: -8px 18px;
+  padding: 0;
+  text-align: right;
+}
+
+.main-menu li {
+  display: inline-block;
+}
+
+.main-menu a {
+  color: white;
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  margin: 0 1px;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+.main-menu a:focus,
+.main-menu a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  outline: none;
+}
+
+
+/*
+ * MAIN
+ */
+
+main {
+  border-right: var(--outside-border-width) solid var(--gray-light);
+  margin-left: auto;
+  padding: var(--outside-border-width);
+  padding-left: 20vw;
+  width: 48%;
+}
+
+
