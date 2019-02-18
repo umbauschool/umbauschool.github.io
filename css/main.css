@@ -31,7 +31,12 @@ body {
   padding: 0;
 }
 
+html {
+  background-color: black;
+}
+
 body {
+  background-color: white;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -56,19 +61,18 @@ body {
  * HEADER
  */
 .main-title {
-  align-items: center;
+  
   border-color: var(--gray-light);
   border-style: solid;
   border-width: var(--outside-border-top) var(--outside-border-width) 0;
   box-sizing: border-box;
-  display: flex;
-  height: 100vh;
+  height: 120vh;
   z-index: 50;
 }
 
 .site-name {
   color: black;
-  font-size: 33.75vw;
+  font-size: 33.66vw;
   font-weight: bold;
   left: 0;
   line-height: 1;
@@ -91,15 +95,32 @@ body {
   color: var(--red);
 }
 
+.site-name .letter {
+  display: inline-block;
+}
+
+.tag-wrap {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 60;
+}
+
 .tag {
-  --negative-offset: calc(var(--outside-border-width) / -2);
+  --tag-push: calc(var(--outside-border-width) / 2);
 
   color: var(--red);
   font-size: 6vw;
   font-weight: bold;
   line-height: 1;
-  margin-left: var(--negative-offset);
+  margin-left: var(--tag-push);
   max-width: 12em;
+  pointer-events: auto;
   z-index: 60;
 }
 
@@ -195,10 +216,22 @@ body {
 
 main {
   border-right: var(--outside-border-width) solid var(--gray-light);
+  font-size: 20px;
   margin-left: auto;
   padding: var(--outside-border-width);
   padding-left: 20vw;
   width: 48%;
+}
+
+main h2 {
+  font-size: 42px;
+  line-height: 1.2;
+  margin: 3em 0 0;
+}
+
+main p {
+  line-height: 1.5;
+  margin: 0 0 1.5em;
 }
 
 
