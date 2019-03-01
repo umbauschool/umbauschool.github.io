@@ -9,60 +9,47 @@ umbau forms designers to think about themselves, institutions and the built envi
 
 ## Programs
 
-# No tuition.
-# No degree.
+No tuition.
+No degree.
 
 
-## Fellowship
+### Fellowship
 Each year, Umbau admits fellows to participate fully in the life and work of the school and community. Fellows participate in all three studios and work on our projects. Often, fellows come to Umbau School with latent ideas of their own to be activated during their time.
 
-## Practicum
+### Practicum
 Individuals may apply to complete a single term at one of Umbau School’s three studios. Practicums are accessible to all ages, backgrounds, and disciplines and emphasize architectural theory and the built environment.
 
 
 
+## Studios
 
-## Staunton, Virginia (USA)
-Ommodio berum quam, sequasp erestio is duntint quunt verem quae pel
-ilit dolor sunt aut quodisimo omnihitaque sequidem. Caborrum velluptat
-litatquia que optates aut excest, cus dus mostis simos quamendel
-modiatat faceatur?
+Each studio practicum consists of an intensive urban residency program. Graduate students and fellows live, work, and travel together.
 
-Bus arciate ndandignat a diasperum que volecabo. Aximent, istis ma sunt.
+### Studio |  Vienna, Austria
+The Vienna Studio is currently in its nineteenth year of continuous operation. Students are based in Vienna, but travel throughout the region. Students are immersed in Wagner and Loos. We visit Coop Himmelb(l)au. We swim in the Danube. Emphasis on image, photography, and drawing.
 
-Animil explandanda nos incit explate minvel in cus eseque nusanturitis et
-officia aut quia et earcium, quas digenisque corum rerovit velestia id qui
-dolores estrum si doluptat.
+_2019 roster currently full_
 
-Pero temollit officia pore volupie nihicipit, seni ommoditatem.
+## Studio |  Krakow, Poland
+The Krakow Studio is currently in its fourth year of continuous operation. We conduct a two-week workshop focused on exploration in the form of screenprinting. Work is shown at the end of the session, tapping into the powerful tradition of political posters within Polish history. Emphasis on culture, propaganda, and politics.
 
-## Vienna, Austria
-Ommodio berum quam, sequasp erestio is duntint quunt verem quae pel
-ilit dolor sunt aut quodisimo omnihitaque sequidem. Caborrum velluptat
-litatquia que optates aut excest, cus dus mostis simos quamendel
-modiatat faceatur?
+_2019 roster currently full_
 
-Bus arciate ndandignat a diasperum que volecabo. Aximent, istis ma sunt.
+## Studio |  Staunton, Virginia
+The U.S.-based Umbau apprenticeship program is expanding into our third studio. Set in the Shenandoah Valley, this residency program provides access to deep focus on project work. Proximity to Washington, D.C., industrial capacity and agricultural life allow for a new synthesis. Emphasis on 
 
-Animil explandanda nos incit explate minvel in cus eseque nusanturitis et
-officia aut quia et earcium, quas digenisque corum rerovit velestia id qui
-dolores estrum si doluptat.
-
-Pero temollit officia pore volupie nihicipit, seni ommoditatem.
+_spots available for Fall 2019 // [APPLY]_
 
 
-## Krakow, Poland
-Ommodio berum quam, sequasp erestio is duntint quunt verem quae pel
-ilit dolor sunt aut quodisimo omnihitaque sequidem. Caborrum velluptat
-litatquia que optates aut excest, cus dus mostis simos quamendel
-modiatat faceatur?
 
-Bus arciate ndandignat a diasperum que volecabo. Aximent, istis ma sunt.
+## About
 
-Animil explandanda nos incit explate minvel in cus eseque nusanturitis et
-officia aut quia et earcium, quas digenisque corum rerovit velestia id qui
-dolores estrum si doluptat.
+umbau is a school of
+students
+healers
+prophets
+landers
 
-Pero temollit officia pore volupie nihicipit, seni ommoditatem.
+Founder William Tate is an architect and instructor. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice.
 
-
+Heading: Hooah. [Photo of Tate] Sidebar
