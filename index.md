@@ -8,8 +8,9 @@ layout: default
 umbau forms designers to think about themselves, institutions and the built environment as transformational. we marshal disruption through architecture, theory, integration, and craft. we thrive in chaos. our patrons, alumni, instructors, and students live within an interdependent community of change. we are building. we are becoming.
 
 
-No tuition.
-No degree.
+# No tuition.
+
+# No degree.
 
 
 ## Programs
