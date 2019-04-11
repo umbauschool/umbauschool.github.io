@@ -62,7 +62,22 @@ William Tate is an architect and instructor. As a professor at James Madison Uni
 ### Students
 
 PHOTO   
-Name, Title
+Name, One line bio
+
+
+### Sustainers
+
+Umbau School operations are 100% funded through generous financial support from the following.
+
+Name
+
+
+### Patrons
+
+Umbau School students receive cost-free courses and workshops thanks to our network of devoted patrons.  
+[Become a patron](#)
+
+Name
 
 
 ## Contact
