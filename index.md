@@ -61,9 +61,9 @@ _2019 fall session full_
 Umbau manifests in studios, which we understand as places of learning. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds. Lightness can only be percieved alongside darkness.  
 
 We study in Vienna, Austria because it is a locus of western civilization. It is the portal between east and west and the vibrant exchnge of cultures. It is the birthplace of modern economic thought and the heights of European culture. But, it was also the Third Reich and actively participated in the Holocaust. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
-We study in Krakow, Poland because it is a wellspring of resilience. It is the portal between old and new. It is a platform for creative adaptation and subversion. The Poles are free thinkers and are devoted to their cause. But, it was also the USSR and experienced life under authoritarian Communism. As a city and as a classroom, Krakow provides a strong infusion of wit and durability.  
+We study in Krakow, Poland because it is a wellspring of resilience. It is the portal between ancient and next. It is a platform for creative adaptation and subversion. The Poles are free thinkers and are devoted to their cause. But, it was also the USSR and experienced life under authoritarian Communism. As a city and as a classroom, Krakow provides a strong infusion of wit and durability.  
 
-We study in the Shenandoah Valley in Virginia because it is a jewel of natural abundance. It is a fresh start and a safe haven. But, within two centuries of the first Europeans arriving, countless millennia of topsoil, timber and fossil fuel has been pillaged. This ecological destruction was largely perpatrated using the bodies of African slaves. As a classroom, Shenandoah provides an opportunity for reconciliation.
+We study in the Shenandoah Valley in Virginia because it is a jewel of natural abundance. It is a fresh start and a safe haven. But, within a few centuries of the first Europeans arriving, countless millennia of topsoil, timber and fossil fuel has been pillaged. This ecological destruction was largely perpatrated using the bodies of African slaves.  As a classroom, Shenandoah provides an opportunity for reconciliation.
     
 ### Time
 The Vienna Studio is currently in its nineteenth    
@@ -107,7 +107,6 @@ Names
    
 ### Donors  
 Umbau School students receive cost-free courses and workshops thanks to our network of devoted patrons.  
-[Become a patron](#)
 
 Names  
 
