@@ -4,7 +4,7 @@
 
 layout: default
 ---
-**umbau is a school of  
+**umbau is a school of**  
 
 architecture   
 
@@ -15,10 +15,7 @@ sustainability
 design  
 
 transformation   
-  
-  
-  
-    
+   
 ***    
     
 Umbau School forms students to think about themselves, institutions, and the built environment as transformational. We marshal disruption through architecture, theory, integration, and craft. We seek to sustain. Our supporters, alumni, instructors, collaborators, and students live in an interdependent community of change.
@@ -75,10 +72,9 @@ We study in the Shenandoah Valley in Virginia because it is a jewel of natural a
 The Vienna Studio is currently in its nineteenth    
 # About
 
-**There is no tuition.
-
-**There is no degree.
+**There is no tuition.**
    
+**There is no degree.**   
    
 ***
     
@@ -98,7 +94,7 @@ Name, One line bio
 Umbau School operations are 100% funded through generous financial support from the following.
 
 Name
-
+    
 ***   
    
 ### Patrons
