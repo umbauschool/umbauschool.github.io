@@ -19,9 +19,18 @@ transformation
 ***    
     
 Umbau School forms students to think about themselves, institutions, and the built environment as transformational. We marshal disruption through architecture, theory, integration, and craft. We seek to subvert and sustain. Our supporters, alumni, instructors, collaborators, and students live in an interdependent community of change.
+
+***
    
-    
-  
+# Healing Architecture
+        
+Umbau manifests in studios, which we understand as places of learning. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds. Lightness can only be percieved alongside darkness.  
+
+We study in Vienna, Austria because it is a locus of human civilization. It is the portal between east and west and hums with the vibrant exchange of cultures. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
+
+We study in Krakow, Poland because it is a wellspring of resilience. It is the portal between ancient and next. It is a platform for creative adaptation and subversion. As a city and as a classroom, Krakow provides immersion into a durable wit and ingenuity.  
+
+We study in Virginia's Shenandoah Valley because it is a jewel of natural abundance. It is a fresh start and a safe haven with a paradoxical history of flourishing and destruction. As a classroom, Shenandoah provides an opportunity for reconciliation.   
   
 *** 
  
@@ -47,30 +56,17 @@ _2019 summer session full_
 Our U.S.-based apprenticeship program has expanded into our third studio. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, agriculture, equity, and material.
     
 _2019 fall session full_   
-[Request information about 2020 sessions](#)
-    
-     
-     
+[Request information about 2020 sessions](#) 
      
 ***     
-    
-# Healing Architecture
-        
-Umbau manifests in studios, which we understand as places of learning. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds. Lightness can only be percieved alongside darkness.  
-
-We study in Vienna, Austria because it is a locus of human civilization. It is the portal between east and west and hums with the vibrant exchange of cultures. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
-
-We study in Krakow, Poland because it is a wellspring of resilience. It is the portal between ancient and next. It is a platform for creative adaptation and subversion. As a city and as a classroom, Krakow provides immersion into a durable wit and ingenuity.  
-
-We study in Virginia's Shenandoah Valley because it is a jewel of natural abundance. It is a fresh start and a safe haven with a paradoxical history of flourishing and destruction. As a classroom, Shenandoah provides an opportunity for reconciliation. 
-  
-***
   
 # About
 
-**There is no tuition.**
-   
-**There is no degree.**   
+## There is no tuition.
+
+## There is no accreditation.
+  
+## There is no degree.   
    
 ***
     
