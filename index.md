@@ -28,7 +28,7 @@ Umbau School forms students to think about themselves, institutions, and the bui
 # Studios
 
 ### Vienna Studio |  Vienna, Austria
-The Vienna Studio is currently in its nineteenth year of continuous operation. Month-long workshop focuses on civilization. Themes include empire, dance, Wagner, penitence, river, Loos, stair, and scale.
+The Vienna Studio is currently in its nineteenth year of continuous operation. Month-long workshop focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
    
 _2019 spring session full_   
 [Request information about 2020 sessions](#)
@@ -44,7 +44,7 @@ _2019 summer session full_
 ***    
     
 ### Studio Shenandoah |  Staunton, Virginia
-Our U.S.-based apprenticeship program is expanding this year into our third studio. Set in the Shenandoah Valley, this three-month workshop focuses on depth. Themes include capital, industry, reconciliation, agriculture, Puccini, and material.
+Our U.S.-based apprenticeship program has expanded into our third studio. Set in the Shenandoah Valley, seasonal workshops focus on depth. Themes include capital, aikido, agriculture, equity, and material.
     
 _2019 fall session full_   
 [Request information about 2020 sessions](#)
