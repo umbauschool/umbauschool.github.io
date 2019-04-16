@@ -28,7 +28,7 @@ Umbau School forms students to think about themselves, institutions, and the bui
 # Studios
 
 ### Vienna Studio |  Vienna, Austria
-The Vienna Studio is currently in its nineteenth year of continuous operation. Month-long workshop focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
+The Vienna Studio is currently in its nineteenth year of continuous operation. The month-long residential immersion focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
    
 _2019 spring session full_   
 [Request information about 2020 sessions](#)
@@ -36,7 +36,7 @@ _2019 spring session full_
 ***   
    
 ### Studio Krakow |  Krakow, Poland
-Studio Krakow is currently in its fourth year of continuous operation. Two-week workshop focuses on craft. Themes include propaganda, Lech Wałęsa, light, subversion, improvisation, show, and space.
+Studio Krakow is currently in its fourth year of continuous operation. The two-week residential workshop focuses on making. Themes include propaganda, Lech Wałęsa, lightness, subversion, improvisation, show, and space.
   
 _2019 summer session full_   
 [Request information about 2020 sessions](#)
@@ -44,7 +44,7 @@ _2019 summer session full_
 ***    
     
 ### Studio Shenandoah |  Staunton, Virginia
-Our U.S.-based apprenticeship program has expanded into our third studio. Set in the Shenandoah Valley, seasonal workshops focus on depth. Themes include capital, aikido, agriculture, equity, and material.
+Our U.S.-based apprenticeship program has expanded into our third studio. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, agriculture, equity, and material.
     
 _2019 fall session full_   
 [Request information about 2020 sessions](#)
