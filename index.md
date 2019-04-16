@@ -24,7 +24,7 @@ Umbau School forms students to think about themselves, institutions, and the bui
    
 # Healing Architecture
         
-Umbau manifests in studios, which we understand as places of learning. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds. Lightness can only be percieved alongside darkness.  
+Umbau manifests in studios, which we understand as modes of study. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds. Lightness can only be percieved alongside darkness.  
 
 We study in Vienna, Austria because it is a locus of human civilization. It is the portal between east and west and hums with the vibrant exchange of cultures. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
 
