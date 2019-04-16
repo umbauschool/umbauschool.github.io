@@ -58,7 +58,7 @@ _2019 fall session full_
         
 Umbau manifests in studios, which we understand as places of learning. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds. Lightness can only be percieved alongside darkness.  
 
-We study in Vienna, Austria because it is a locus of western civilization. It is the portal between east and west and the vibrant exchange of cultures. It is the birthplace of modern economic thought and the heights of European culture. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
+We study in Vienna, Austria because it is a locus of human civilization. It is the portal between east and west and hums with the vibrant exchange of cultures. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
 
 We study in Krakow, Poland because it is a wellspring of resilience. It is the portal between ancient and next. It is a platform for creative adaptation and subversion. As a city and as a classroom, Krakow provides immersion into a durable wit and ingenuity.  
 
