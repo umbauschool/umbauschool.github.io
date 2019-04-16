@@ -62,11 +62,11 @@ _2019 fall session full_
   
 # About
 
-## There is no tuition.
+**There is no tuition.**  
 
-## There is no accreditation.
+**There is no accreditation.**   
   
-## There is no degree.   
+**There is no degree.**    
    
 ***
     
