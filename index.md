@@ -23,30 +23,40 @@ We study in Virginia's Shenandoah Valley because it is a jewel of natural abunda
  
 # Studios
 
-### Vienna, Austria
+<section class="studio" data-studio="vienna" markdown="1">
+
+## Vienna, Austria
 The Vienna Studio is currently in its nineteenth year of continuous operation. The month-long residential immersion focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
    
 _2019 spring session full_   
 [Request information about 2020 sessions](#)
+
+</section>
+
+
+<section class="studio" data-studio="krakow" markdown="1">
    
-***   
-   
-### Krakow, Poland
+## Krakow, Poland
 Studio Krakow is currently in its fourth year of continuous operation. The two-week residential workshop focuses on making. Themes include propaganda, Lech Wałęsa, lightness, subversion, improvisation, show, and space.
   
 _2019 summer session full_   
 [Request information about 2020 sessions](#)
-    
-***    
-    
-### Staunton, Virginia
+
+</section>
+
+
+<section class="studio" data-studio="staunton" markdown="1">
+
+## Staunton, Virginia
 Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, agriculture, equity, and material.
     
 _2019 fall session full_   
 [Request information about 2020 sessions](#) 
-     
+
+</section>
+
 ***     
-  
+
 # About
 
 **There is no tuition.**  
@@ -55,17 +65,15 @@ _2019 fall session full_
   
 **There is no degree.**    
    
-***
     
-### Director
+## Director
 
-<img src="/img/Tate.jpg" alt="William Tate">
+<img class="img--full" src="/img/Tate.jpg" alt="William Tate">
 
 William Tate is an architect and instructor. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. He led the first umbau studio in 2001.
 
-***  
    
-### Students  
+## Students  
 
 <div class="person-grid">
 
@@ -93,9 +101,8 @@ William Tate is an architect and instructor. As a professor at James Madison Uni
 
 </div>
 
-***
   
-### Patrons  
+## Patrons  
 Umbau School operations are 100% funded through the generosity of our network of supporters.   
 
 [Become a patron](#)
