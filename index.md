@@ -4,20 +4,7 @@
 
 layout: default
 ---
-**umbau is a school of**  
 
-architecture   
-
-thought  
-
-sustainability  
-
-design  
-
-transformation   
-   
-***    
-    
 Umbau School forms students to think about themselves, institutions, and the built environment as transformational. We marshal disruption through architecture, theory, integration, and craft. We seek to subvert and sustain. Our supporters, alumni, instructors, collaborators, and students live in an interdependent community of change.
 
 ***
@@ -71,14 +58,40 @@ _2019 fall session full_
 ***
     
 ### Director
-PHOTO   
+
+<img src="/img/Tate.jpg" alt="William Tate">
+
 William Tate is an architect and instructor. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. He led the first umbau studio in 2001.
 
 ***  
    
 ### Students  
-PHOTO   
-Name, One line bio
+
+<div class="person-grid">
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Zack Bryant"
+    title="Job title"
+    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+    website="http://zbryant.com"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Zack Bryant"
+    title="Job title"
+    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+%}
+
+{% include card.html
+    name="Zack Bryant"
+    title="Job title"
+    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    website="http://zbryant.com"
+%}
+
+</div>
 
 ***
   

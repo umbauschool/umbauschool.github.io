@@ -1,0 +1,34 @@
+
+{% if include.website %}
+<a class="person-card" href="{{ include.website }}">
+{% else %}
+<div class="person-card">
+{% endif %}
+
+  {% if include.img %}
+  <div class="person-card__img-wrap">
+    <img class="person-card__img" src="{{ include.img }}" alt="{{ include.name }}">
+  </div>
+  {% endif %}
+
+  {% if include.name %}
+  <h4 class="person-card__name">{{ include.name }}</h4>
+  {% endif %}
+
+  {% if include.title %}
+  <div class="person-card__title">{{ include.title }}</div>
+  {% endif %}
+
+  {% if include.bio %}
+  <p class="person-card__bio">{{ include.bio }}</p>
+  {% endif %}
+
+  {% if include.website %}
+  <div class="person-card__website">{{ include.website|replace:"http://",""|replace:"https://","" }}</div>
+  {% endif %}
+
+{% if include.website %}
+</a>
+{% else %}
+</div>
+{% endif %}
