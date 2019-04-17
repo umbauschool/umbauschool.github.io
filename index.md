@@ -101,7 +101,14 @@ Umbau School operations are 100% funded through the generosity of our network of
 
 [Become a patron](#)
 
-Names  
+-Zachary & Anna Bryant
+-Mark Tanner
+-Ashley Walton
+-Elon Musk
+-Gregor
+-Jacob Melton
+-John D. & Catherine T. MacArthur
+-Daniel & Nina Liebeskind
 
 ***   
    
