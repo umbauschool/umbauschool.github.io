@@ -40,7 +40,7 @@ _2019 summer session full_
 ***    
     
 ### Staunton, Virginia, USA
-Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, agriculture, equity, and material.
+Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, permaculture, equity, and material.
     
 _2019 fall session full_   
 [Request information about 2020 sessions](#) 
@@ -85,6 +85,7 @@ William Tate is an architect and instructor. As a professor at James Madison Uni
 %}
 
 {% include card.html
+    img="/img/student_z.jpg"
     name="First Last"
     title="Job title"
     bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
