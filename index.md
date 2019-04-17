@@ -24,7 +24,7 @@ Umbau School forms students to think about themselves, institutions, and the bui
    
 # Healing Architecture
         
-Umbau manifests in studios, which we understand as modes of study. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds. Lightness can only be percieved alongside darkness.  
+Umbau manifests in studios, which we understand as modes of study. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds.   
 
 We study in Vienna, Austria because it is a locus of human civilization. It is the portal between east and west and hums with the vibrant exchange of cultures. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
 
@@ -72,7 +72,7 @@ _2019 fall session full_
     
 ### Director
 PHOTO   
-William Tate is an architect and instructor. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. He led his first umbau studio in the year 2001.
+William Tate is an architect and instructor. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. He led the first umbau studio in 2001.
 
 ***  
    
@@ -81,24 +81,11 @@ PHOTO
 Name, One line bio
 
 ***
-   
-### Sustainers  
-Umbau School operations are 100% funded through generous financial support from the following.
-
-Names  
-    
-***   
-   
+  
 ### Patrons  
-Umbau School students receive cost-free courses and workshops thanks to our network of devoted patrons.  
+Umbau School operations are 100% funded through the generosity of our network of supporters.   
+
 [Become a patron](#)
-
-Names  
-
-***   
-   
-### Donors  
-Umbau School students receive cost-free courses and workshops thanks to our network of devoted patrons.  
 
 Names  
 
