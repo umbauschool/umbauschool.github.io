@@ -30,8 +30,9 @@ We study in Virginia's Shenandoah Valley because it is a jewel of natural abunda
 ## Vienna, Austria
 The Vienna Studio is currently in its nineteenth year of continuous operation. The month-long residential immersion focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
    
-_2019 spring session full_   
-<a class="btn" href="#">Request information about 2020 sessions</a>
+_2019 spring session full_    
+**2020 spring session open**   
+<a class="btn" href="#">Request information</a>    
 
 </section>
 
@@ -43,7 +44,8 @@ _2019 spring session full_
 Studio Krakow is currently in its fourth year of continuous operation. The two-week residential workshop focuses on making. Themes include propaganda, Lech Wałęsa, lightness, subversion, improvisation, show, and space.
   
 _2019 summer session full_   
-<a class="btn" href="#">Request information about 2020 sessions</a>
+**2020 summer session open**    
+<a class="btn" href="#">Request information</a>    
 
 </section>
 
@@ -53,8 +55,9 @@ _2019 summer session full_
 ## Staunton, Virginia, USA
 Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, permaculture, equity, and material.
     
-_2019 fall session full_   
-<a class="btn" href="#">Request information about 2020 sessions</a> 
+_2019 fall session full_    
+**2020 winter session open**    
+<a class="btn" href="#">Request information</a>   
 
 </section>
 
@@ -62,13 +65,14 @@ _2019 fall session full_
 
 # About
 
-**There is no tuition.**  
+## There is no tuition.
 
-**There is no accreditation.**   
+## There is no accreditation.   
   
-**There is no degree.**    
+## There is no degree.    
    
-    
+***   
+   
 ## Director
 
 <img class="img--full" src="/img/Tate.jpg" alt="William Tate">
