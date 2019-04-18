@@ -173,6 +173,7 @@ img {
   content: "";
   display: block;
   height: 0;
+  max-width: 66px;
   transition: transform .2s;
   width: 32px;
 }
