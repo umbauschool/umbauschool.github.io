@@ -47,8 +47,8 @@ _2019 summer session full_
 
 <section class="studio" data-studio="staunton" markdown="1">
 
-## Staunton, Virginia
-Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, agriculture, equity, and material.
+## Staunton, Virginia, USA
+Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, permaculture, equity, and material.
     
 _2019 fall session full_   
 [Request information about 2020 sessions](#) 
@@ -79,23 +79,24 @@ William Tate is an architect and instructor. As a professor at James Madison Uni
 
 {% include card.html
     img="/img/student_z.jpg"
-    name="Zack Bryant"
-    title="Job title"
-    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor."
+    name="Z. Bryant"
+    title="Agrarian Designer"
+    bio="Z is an amateur designer and an even more amateur farmer."
     website="http://zbryant.com"
 %}
 
 {% include card.html
     img="/img/student_z.jpg"
-    name="Zack Bryant"
+    name="First Last"
     title="Job title"
     bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit."
 %}
 
 {% include card.html
-    name="Zack Bryant"
+    img="/img/student_z.jpg"
+    name="First Last"
     title="Job title"
-    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
     website="http://zbryant.com"
 %}
 
@@ -107,7 +108,16 @@ Umbau School operations are 100% funded through the generosity of our network of
 
 [Become a patron](#)
 
-Names  
+<ul class="patron-list">
+  <li>Zachary & Anna Bryant</li>
+  <li>Mark Tanner</li>
+  <li>Ashley Walton</li>
+  <li>Elon Musk</li>
+  <li>Gregor</li>
+  <li>Jacob Melton</li>
+  <li>John D. & Catherine T. MacArthur</li>
+  <li>Daniel & Nina Liebeskind</li>
+</ul>
 
 ***   
    

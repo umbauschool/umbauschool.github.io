@@ -334,7 +334,7 @@ main a:hover {
 
 
 /*
- * HEADER
+ * STUDENT GRID
  */
 .person-grid {
   display: flex;
@@ -424,5 +424,45 @@ a.person-card:hover .person-card__website {
   color: var(--gray);
   font-size: 14px;
   margin-top: auto;
+}
+
+
+/*
+ * PATRON GRID
+ */
+.patron-list {
+  color: var(--gray);
+  font-size: 16px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.patron-list li {
+  margin: 0 0 10px;
+}
+
+@media (min-width: 750px) {
+  .patron-list {
+    columns: 2 40px;
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+  .patron-list li {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .patron-list {
+    columns: 2 40px;
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .patron-list li {
+    margin-bottom: 20px;
+  }
 }
 
