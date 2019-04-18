@@ -421,24 +421,24 @@ a.person-card:hover .person-card__website {
 .person-card__name {
   font-size: inherit;
   line-height: inherit;
-  margin: 0 0 10px;
+  margin: 0 0 5px;
 }
 
 .person-card__title {
   color: var(--gray);
-  font-size: 16px;
+  font-size: 15px;
   margin: 0 0 10px;
 }
 
 .person-card__bio {
   color: black;
-  font-size: 16px;
+  font-size: 15px;
   margin: 0 0 30px;
 }
 
 .person-card__website {
   color: var(--gray);
-  font-size: 14px;
+  font-size: 15px;
   margin-top: auto;
 }
 
