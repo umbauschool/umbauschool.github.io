@@ -1,15 +1,39 @@
 (function() {
 
   const body = document.querySelector('body');
-  const menutrigger = document.querySelector('.menu-trigger');
 
 
   // Menu
+
+  const menutrigger = document.querySelector('.menu-trigger');
+
   menutrigger.addEventListener('click', function (e) {
     e.preventDefault();
     body.classList.toggle('has-main-menu-showing');
   });
-  
+
+
+  const menuitems = document.querySelectorAll('.main-menu a');
+  const onMenuitemClick = function (e) {
+    const id = e.target.getAttribute('href');
+    const anchor = document.querySelector(id);
+
+    e.preventDefault();
+
+    body.classList.remove('has-main-menu-showing');
+
+    window.scrollTo({
+      behavior: 'smooth',
+      left: 0,
+      top: anchor.offsetTop
+    });
+  };
+
+  for (let i = 0; i < menuitems.length; i++) {
+    menuitems[i].addEventListener('click', onMenuitemClick);
+  }
+
+
 
   // u
   //     b a
@@ -40,7 +64,7 @@
   }
 
 
-  // scramble
+  // Scramble
 
   const schoolOf = document.querySelector('.tag [data-words]');
   const words = JSON.parse(schoolOf.getAttribute('data-words'));
