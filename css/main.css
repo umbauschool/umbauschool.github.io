@@ -95,6 +95,8 @@ img {
 
 .site-name a {
   color: inherit;
+  display: inline-block;
+  height: 0.866666em;
   pointer-events: auto;
   text-decoration: none;
   transition: color .2s;
