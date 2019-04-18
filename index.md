@@ -42,7 +42,7 @@ _2019 spring session full_  |  2020 spring session open
 ## Krakow, Poland
 Studio Krakow is currently in its fourth year of continuous operation. The two-week residential workshop focuses on making. Themes include propaganda, Lech Wałęsa, lightness, subversion, improvisation, show, and space.
   
-_2019 summer session full_  |  2020 summer session open 
+_2019 summer session full_  |  2020 summer session open   
 <a class="btn" href="#">Request information</a>
 
 </section>
@@ -53,7 +53,7 @@ _2019 summer session full_  |  2020 summer session open
 ## Staunton, Virginia, USA
 Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, permaculture, equity, and material.
     
-_2019 fall session full_  |  2020 winter session open 
+_2019 fall session full_  |  2020 winter session open   
 <a class="btn" href="#">Request information</a> 
 
 </section>
