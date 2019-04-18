@@ -106,7 +106,7 @@ William Tate is an architect and instructor. As a professor at James Madison Uni
 ## Patrons  
 Umbau School operations are 100% funded through the generosity of our network of supporters.   
 
-[Become a patron](#)
+<a class="btn" href="#">Become a patron</a>
 
 <ul class="patron-list">
   <li>Zachary & Anna Bryant</li>
