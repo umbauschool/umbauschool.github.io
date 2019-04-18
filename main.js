@@ -39,4 +39,55 @@
     umbauLax();
   }
 
+
+  // scramble
+
+  const schoolOf = document.querySelector('.tag [data-words]');
+  const words = JSON.parse(schoolOf.getAttribute('data-words'));
+  const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+
+  const dur = 75;
+  const del = 1500;
+
+  const getRandomLetter = function() {
+    return alphabet[Math.floor(Math.random() * alphabet.length)];
+  };
+
+  const scramble = function (index) {
+    const word1 = words[index];
+    const word2 = words[index + 1];
+    
+    const diff = Math.abs(word1.length - word2.length);
+    let word = word1;
+    let letter;
+    
+    for (let i = 0; i < diff; i++) {
+      setTimeout(function () {
+        if (word1.length > word2.length) {
+          word = word.substr(0, word.length - 2) + '.';
+        } else {
+          word = word + '.';
+        }
+
+        for (let j = 0; j < word.length - 1; j++) {
+          setTimeout(function () {
+            letter = i < diff - 1 ? getRandomLetter() : word2[j];
+            word = word.substr(0, j) + letter + word.substr(j + 1);
+            schoolOf.innerHTML = word;
+          }, Math.random() * dur);
+        }
+
+        if (i >= diff - 1 && index < words.length - 2) {
+          setTimeout(function () {
+            scramble(index + 1);
+          }, del);
+        }
+      }, dur * i);
+    }
+  };
+
+  setTimeout(function() {
+    scramble(0);
+  }, del);
+
 })();
