@@ -63,6 +63,19 @@
     umbauLax();
   }
 
+  const u = document.querySelector('.site-name a');
+  u.addEventListener('click', function (e) {
+    e.preventDefault();
+
+    body.classList.remove('has-main-menu-showing');
+
+    window.scrollTo({
+      behavior: 'smooth',
+      left: 0,
+      top: 0
+    });
+  });
+
 
   // Scramble
 
