@@ -15,6 +15,8 @@ Umbau manifests in studios, which we understand as modes of study. We believe th
 
 We study in Vienna, Austria because it is a locus of human civilization. It is the portal between east and west and hums with the vibrant exchange of cultures. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
 
+<div class="deco"></div>
+
 We study in Krakow, Poland because it is a wellspring of resilience. It is the portal between ancient and next. It is a platform for creative adaptation and subversion. As a city and as a classroom, Krakow provides immersion into a durable wit and ingenuity.  
 
 We study in Virginia's Shenandoah Valley because it is a jewel of natural abundance. It is a fresh start and a safe haven with a paradoxical history of flourishing and destruction. As a classroom, Shenandoah provides an opportunity for reconciliation.   
@@ -33,6 +35,7 @@ _2019 spring session full_
 
 </section>
 
+<div class="deco-right"></div>
 
 <section class="studio" data-studio="krakow" markdown="1">
    
@@ -70,6 +73,8 @@ _2019 fall session full_
 
 <img class="img--full" src="/img/Tate.jpg" alt="William Tate">
 
+<div class="deco"></div>
+
 William Tate is an architect and instructor. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. He led the first umbau studio in 2001.
 
    
@@ -103,8 +108,11 @@ William Tate is an architect and instructor. As a professor at James Madison Uni
 </div>
 
   
-## Patrons  
+## Patrons
+
 Umbau School operations are 100% funded through the generosity of our network of supporters.   
+
+<div class="deco-right"></div>
 
 <a class="btn" href="#">Become a patron</a>
 

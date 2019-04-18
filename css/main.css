@@ -90,6 +90,7 @@ img {
   top: 0;
   transform: translateZ(0);
   white-space: nowrap;
+  z-index: 100;
 }
 
 .site-name a {
@@ -346,6 +347,22 @@ main .btn:hover {
 .img--full {
   max-width: none;
   width: calc(100% + var(--outside-border-width) * 1.5);
+}
+
+.deco,
+.deco-right {
+  border-color: var(--gray-light);
+  border-left-style: solid;
+  border-left-width: var(--outside-border-width);
+  height: 66vh;
+  left: 0;
+  position: absolute;
+}
+
+.deco-right {
+  border-color: white;
+  left: auto;
+  right: 0;
 }
 
 
