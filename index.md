@@ -31,7 +31,7 @@ We study in Virginia's Shenandoah Valley because it is a jewel of natural abunda
 The Vienna Studio is currently in its nineteenth year of continuous operation. The month-long residential immersion focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
    
 _2019 spring session full_   
-[Request information about 2020 sessions](#)
+<a class="btn" href="#">Request information about 2020 sessions</a>
 
 </section>
 
@@ -43,7 +43,7 @@ _2019 spring session full_
 Studio Krakow is currently in its fourth year of continuous operation. The two-week residential workshop focuses on making. Themes include propaganda, Lech Wałęsa, lightness, subversion, improvisation, show, and space.
   
 _2019 summer session full_   
-[Request information about 2020 sessions](#)
+<a class="btn" href="#">Request information about 2020 sessions</a>
 
 </section>
 
@@ -54,7 +54,7 @@ _2019 summer session full_
 Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, permaculture, equity, and material.
     
 _2019 fall session full_   
-[Request information about 2020 sessions](#) 
+<a class="btn" href="#">Request information about 2020 sessions</a> 
 
 </section>
 
