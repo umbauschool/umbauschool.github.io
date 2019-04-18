@@ -79,7 +79,7 @@ _2019 fall session full_
 
 <div class="deco"></div>
 
-William Tate is an architect and instructor. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. He led the first umbau studio in 2001.
+William Tate is an architect and instructor. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. He led the first umbau studio in 2001.
 
    
 ## Students  
