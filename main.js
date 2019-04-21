@@ -230,17 +230,16 @@
   if (typeof window.requestAnimationFrame !== 'undefined') {
 
     const setStripeHeight = function () {
+      let windowHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
       const scrollTop = window.scrollY || window.pageYOffset || document.documentElement.scrollTop;
-      const scrollBottom = scrollTop + windowDimensions.h;
+      const scrollBottom = scrollTop + windowHeight;
 
       const sectionHeight = studiosection.clientHeight;
       const sectionTop = studiosection.offsetTop;
       const sectionBottom = sectionTop + sectionHeight;
 
-      let windowHeight = windowDimensions.h;
-
       if (scrollTop + (windowHeight / 3) > sectionTop && scrollBottom - (windowHeight / 3) < sectionBottom) {
-        const percentThrough = (scrollTop + windowDimensions.h - sectionTop) / (sectionHeight + windowDimensions.h);
+        const percentThrough = (scrollTop + windowHeight - sectionTop) / (sectionHeight + windowHeight);
         let baseHeight = 0;
         let stripeHeight = null;
 

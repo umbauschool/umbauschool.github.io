@@ -510,11 +510,9 @@ main .btn:hover {
 .flagstripes {
   bottom: 0;
   left: 0;
-  opacity: 0;
   pointer-events: none;
   position: fixed;
   top: 0;
-  transition: opacity .2s ease-in;
   width: var(--outside-border-width);
 }
 
@@ -530,25 +528,28 @@ main .btn:hover {
   }
 }
 
-.flagstripes.in-view {
-  opacity: 1;
-  transition-timing-function: ease-out;
-}
-
 .flagstripe {
   background-color: var(--red);
   height: calc(100% / 3);
+  opacity: 0;
   position: absolute;
+  transition: opacity .2s ease-in, width .2s ease-in;
+  width: 0;
+}
+
+.flagstripes.in-view .flagstripe {
+  opacity: 1;
+  transition-timing-function: ease-out;
   width: 100%;
 }
 
-.flagstripe:nth-child(1) { top: 0; }
-.flagstripe:nth-child(2) { top: calc(100% / 3 * 2); }
-.flagstripe:nth-child(3) { top: 100%; }
-.flagstripe:nth-child(4) { top: 100%; }
-.flagstripe:nth-child(5) { top: 100%; }
-.flagstripe:nth-child(6) { top: 100%; }
-.flagstripe:nth-child(7) { top: 100%; }
+.flagstripe:nth-child(1) { top: 0; transition-delay: 0s; }
+.flagstripe:nth-child(2) { top: calc(100% / 3 * 2); transition-delay: 0.05s; }
+.flagstripe:nth-child(3) { top: 100%; transition-delay: 0.1s; }
+.flagstripe:nth-child(4) { top: 100%; transition-delay: 0.15s; }
+.flagstripe:nth-child(5) { top: 100%; transition-delay: 0.2s; }
+.flagstripe:nth-child(6) { top: 100%; transition-delay: 0.25s; }
+.flagstripe:nth-child(7) { top: 100%; transition-delay: 0.3s; }
 
 
 
