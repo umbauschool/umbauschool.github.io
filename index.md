@@ -22,10 +22,12 @@ We study in Krakow, Poland because it is a wellspring of resilience. It is the p
 We study in Virginia's Shenandoah Valley because it is a jewel of natural abundance. It is a fresh start and a safe haven with a paradoxical history of flourishing and destruction. As a classroom, Shenandoah provides an opportunity for reconciliation.   
   
 *** 
- 
+
+
 # Studios
 
-<section class="studio" data-studio="vienna" markdown="1">
+<div class="studios" markdown="1">
+<div class="studio" data-studio="vienna" markdown="1">
 
 ## Vienna, Austria
 The Vienna Studio is currently in its nineteenth year of continuous operation. The month-long residential immersion focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
@@ -34,11 +36,11 @@ _2019 spring session full_
 **2020 spring session open**   
 <a class="btn" href="#">Request information</a>    
 
-</section>
+</div>
 
 <div class="deco-right"></div>
 
-<section class="studio" data-studio="krakow" markdown="1">
+<div class="studio" data-studio="krakow" markdown="1">
    
 ## Krakow, Poland
 Studio Krakow is currently in its fourth year of continuous operation. The two-week residential workshop focuses on making. Themes include propaganda, Lech Wałęsa, lightness, subversion, improvisation, show, and space.
@@ -47,10 +49,9 @@ _2019 summer session full_
 **2020 summer session open**    
 <a class="btn" href="#">Request information</a>    
 
-</section>
+</div>
 
-
-<section class="studio" data-studio="staunton" markdown="1">
+<div class="studio" data-studio="staunton" markdown="1">
 
 ## Staunton, Virginia, USA
 Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, permaculture, equity, and material.
@@ -59,9 +60,9 @@ _2019 fall session full_
 **2020 winter session open**    
 <a class="btn" href="#">Request information</a>   
 
-</section>
+</div>
+</div>
 
-***     
 
 # About
 

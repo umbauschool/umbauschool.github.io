@@ -206,8 +206,6 @@
         threshold: 1.0
       });
 
-      
-
       for (let i = 0; i < blurredImages.length; i++) {
         observer.observe(blurredImages[i]);
       }
@@ -216,6 +214,76 @@
         blurredImages[i].classList.add('in-view');
       }
     }
+  }
+
+
+  // Studio flags.
+
+  const studiosection = document.querySelector('.studios');
+  // const studios = document.querySelectorAll('.studio');
+
+  const stripeswrap = document.querySelector('.flagstripes');
+  const stripes = document.querySelectorAll('.flagstripe');
+
+  if (typeof window.requestAnimationFrame !== 'undefined') {
+
+    const setStripeHeight = function () {
+      const scrollTop = window.scrollY || window.pageYOffset || document.documentElement.scrollTop;
+      const scrollBottom = scrollTop + windowDimensions.h;
+
+      const sectionHeight = studiosection.clientHeight;
+      const sectionTop = studiosection.offsetTop;
+      const sectionBottom = sectionTop + sectionHeight;
+
+      let windowHeight = windowDimensions.h;
+
+      if (scrollTop + (windowHeight / 3) > sectionTop && scrollBottom - (windowHeight / 3) < sectionBottom) {
+        const percentThrough = (scrollTop + windowDimensions.h - sectionTop) / (sectionHeight + windowDimensions.h);
+        let baseHeight = 0;
+        let stripeHeight = null;
+
+        stripeswrap.classList.add('in-view');
+
+        if (percentThrough < 0.25) {
+          stripes.forEach(function(stripe, i) {
+            stripe.style.height = '';
+            stripe.style.top = '';
+          });
+        } else if (percentThrough < 0.5) {
+          baseHeight = windowHeight / 3;
+          windowHeight = windowHeight / 3;
+
+          stripeHeight = baseHeight + (windowHeight / 2 * ((percentThrough - 0.25)  / 0.25));
+
+          stripes.forEach(function (stripe, i) {
+            stripe.style.height = stripeHeight + 'px';
+            stripe.style.top = stripeHeight * (i * 2) + 'px';
+          });
+        } else if (percentThrough < 0.75) {
+          const progress = (percentThrough - 0.5) / 0.25;
+          baseHeight = windowHeight / 2;
+          windowHeight = windowHeight / 2 - windowHeight / 13;
+
+          stripeHeight = baseHeight - (windowHeight * progress);
+
+          stripes.forEach(function(stripe, i) {
+            stripe.style.height = stripeHeight + 'px';
+            stripe.style.top = stripeHeight * (i * 2) + 'px';
+          });
+        } else {
+          stripes.forEach(function(stripe, i) {
+            stripe.style.height = windowHeight / 13 + 'px';
+            stripe.style.top = windowHeight / 13 * (i * 2) + 'px';
+          });
+        }
+      } else {
+        stripeswrap.classList.remove('in-view');
+      }
+
+      window.requestAnimationFrame(setStripeHeight);  
+    };
+
+    setStripeHeight();
   }
 
 })();
