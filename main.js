@@ -248,7 +248,7 @@
         if (percentThrough < 0.25) {
           stripes.forEach(function(stripe, i) {
             stripe.style.height = '';
-            stripe.style.top = '';
+            stripe.style.bottom = '';
           });
         } else if (percentThrough < 0.5) {
           baseHeight = windowHeight / 3;
@@ -258,7 +258,7 @@
 
           stripes.forEach(function (stripe, i) {
             stripe.style.height = stripeHeight + 'px';
-            stripe.style.top = stripeHeight * (i * 2) + 'px';
+            stripe.style.bottom = stripeHeight * (i * 2) + 'px';
           });
         } else if (percentThrough < 0.75) {
           const progress = (percentThrough - 0.5) / 0.25;
@@ -269,12 +269,12 @@
 
           stripes.forEach(function(stripe, i) {
             stripe.style.height = stripeHeight + 'px';
-            stripe.style.top = stripeHeight * (i * 2) + 'px';
+            stripe.style.bottom = stripeHeight * (i * 2) + 'px';
           });
         } else {
           stripes.forEach(function(stripe, i) {
             stripe.style.height = windowHeight / 13 + 'px';
-            stripe.style.top = windowHeight / 13 * (i * 2) + 'px';
+            stripe.style.bottom = windowHeight / 13 * (i * 2) + 'px';
           });
         }
       } else {

@@ -543,13 +543,13 @@ main .btn:hover {
   width: 100%;
 }
 
-.flagstripe:nth-child(1) { top: 0; transition-delay: 0s; }
-.flagstripe:nth-child(2) { top: calc(100% / 3 * 2); transition-delay: 0.05s; }
-.flagstripe:nth-child(3) { top: 100%; transition-delay: 0.1s; }
-.flagstripe:nth-child(4) { top: 100%; transition-delay: 0.15s; }
-.flagstripe:nth-child(5) { top: 100%; transition-delay: 0.2s; }
-.flagstripe:nth-child(6) { top: 100%; transition-delay: 0.25s; }
-.flagstripe:nth-child(7) { top: 100%; transition-delay: 0.3s; }
+.flagstripe:nth-child(1) { bottom: 0; transition-delay: 0s; }
+.flagstripe:nth-child(2) { bottom: calc(100% / 3 * 2); transition-delay: 0.05s; }
+.flagstripe:nth-child(3) { bottom: 100%; transition-delay: 0.1s; }
+.flagstripe:nth-child(4) { bottom: 100%; transition-delay: 0.15s; }
+.flagstripe:nth-child(5) { bottom: 100%; transition-delay: 0.2s; }
+.flagstripe:nth-child(6) { bottom: 100%; transition-delay: 0.25s; }
+.flagstripe:nth-child(7) { bottom: 100%; transition-delay: 0.3s; }
 
 
 
