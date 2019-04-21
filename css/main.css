@@ -74,6 +74,7 @@ img {
   box-sizing: border-box;
   height: 120vh;
   pointer-events: none;
+  position: relative;
   z-index: 50;
 }
 
@@ -112,14 +113,12 @@ img {
 }
 
 .tag-wrap {
-  align-items: center;
-  display: flex;
   height: 100vh;
-  left: 0;
+  left: calc(var(--outside-border-width) * -1);
   pointer-events: none;
   position: absolute;
-  right: 0;
-  top: 0;
+  right: calc(var(--outside-border-width) * -1);
+  top: calc(var(--outside-border-top) * -1);
   z-index: 200;
 }
 
@@ -130,16 +129,24 @@ img {
   font-size: 10vw;
   font-weight: bold;
   line-height: 1;
-  margin-bottom: 0;
+  margin: 0;
   margin-left: var(--tag-push);
-  margin-top: 50vh;
   max-width: 12em;
+  position: absolute;
+  top: 20%;
   z-index: 60;
 }
 
 @media (min-width: 750px) {
+  .tag-wrap {
+    align-items: center;
+    display: flex;
+  }
+
   .tag {
     font-size: 8vw;
+    position: relative;
+    top: auto;
   }
 }
 
@@ -340,14 +347,16 @@ main {
 }
 
 main h1 {
-  font-size: 50px;
-  line-height: 60px;
+  font-size: 40px;
+  line-height: 40px;
   margin: 100px 0 30px;
   padding-top: 100px;
 }
 
 @media (min-width: 750px) {
   main h1 {
+    font-size: 50px;
+    line-height: 60px;
     margin-top: 200px;
   }
 }
@@ -359,9 +368,16 @@ main h1 {
 }
 
 main h2 {
-  font-size: 30px;
-  line-height: 40px;
+  font-size: 26px;
+  line-height: 32px;
   margin: 100px 0 30px;
+}
+
+@media (min-width: 750px) {
+  main h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
 }
 
 @media (min-width: 1250px) {
@@ -372,6 +388,10 @@ main h2 {
 
 main h1 + h2,
 main h2:first-child {
+  margin-top: 0;
+}
+
+main h2 + h2 {
   margin-top: 0;
 }
 

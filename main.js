@@ -2,6 +2,50 @@
 
   const body = document.querySelector('body');
 
+  const windowDimensions = {
+    w: null,
+    h: null
+  };
+
+  const setWindowDimensions = function () {
+    const w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+    const h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+
+    if (
+      !windowDimensions.w ||
+      !windowDimensions.h ||
+      Math.abs(w - windowDimensions.w) > 0 ||
+      Math.abs(h - windowDimensions.h) > 100
+    ) {
+      windowDimensions.w = w;
+      windowDimensions.h = h;
+    }
+  };
+
+  setWindowDimensions();
+  window.addEventListener('resize', setWindowDimensions);
+
+
+
+  // Forcibly replace `vh` units with `px` to prevent jank.
+
+  const maintitle = document.querySelector('.main-title');
+  const tagWrap = document.querySelector('.tag-wrap');
+
+  const fixHeights = function () {
+    if (windowDimensions.w < 750 && windowDimensions.h) {
+      maintitle.style.height = windowDimensions.h * 1.2 + 'px';
+      tagWrap.style.height = windowDimensions.h + 'px';
+    } else {
+      maintitle.style.height = '';
+      tagWrap.style.height = '';
+    }
+  };
+
+  fixHeights();
+  window.addEventListener('resize', fixHeights);
+
+
 
   // Menu
 
@@ -44,12 +88,12 @@
   const umbauTitleOffsets = [100, 60, 40, 85];
 
   if (umbauTitle) {
-    let wHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+    let wHeight = windowDimensions.h;
     let tHeight = umbauTitle.offsetHeight;
     let sTop = window.scrollY;
 
     const umbauLax = function () {
-      wHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+      wHeight = windowDimensions.h;
       tHeight = umbauTitle.offsetHeight;
       sTop = window.scrollY
 
@@ -75,6 +119,7 @@
       top: 0
     });
   });
+
 
 
   // Scramble
