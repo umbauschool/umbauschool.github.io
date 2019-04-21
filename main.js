@@ -26,6 +26,17 @@
   window.addEventListener('resize', setWindowDimensions);
 
 
+  let isTouch = false;
+  
+  const setIsTouch = function () {
+    isTouch = true;
+    setupBlurControls();
+
+    window.removeEventListener('touchstart', setIsTouch);
+  };
+  window.addEventListener('touchstart', setIsTouch);
+
+
 
   // Forcibly replace `vh` units with `px` to prevent jank.
 
@@ -171,5 +182,40 @@
   setTimeout(function() {
     scramble(0);
   }, del);
+
+
+
+  // Un-blur image on touch screens.
+
+  function setupBlurControls() {
+    const blurredImages = document.querySelectorAll('.person-card__img-wrap');
+
+    if ('IntersectionObserver' in window) {
+      const blurer = function(entries) {
+        entries.forEach(function (item) {
+          if (item.isIntersecting) {
+            item.target.classList.add('in-view');
+          } else {
+            item.target.classList.remove('in-view');
+          }
+        });
+      };
+
+      const observer = new IntersectionObserver(blurer, {
+        rootMargin: '0px',
+        threshold: 1.0
+      });
+
+      
+
+      for (let i = 0; i < blurredImages.length; i++) {
+        observer.observe(blurredImages[i]);
+      }
+    } else {
+      for (let i = 0; i < blurredImages.length; i++) {
+        blurredImages[i].classList.add('in-view');
+      }
+    }
+  }
 
 })();
