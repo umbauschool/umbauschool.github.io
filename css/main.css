@@ -110,6 +110,12 @@ img {
 
 .site-name .letter {
   display: inline-block;
+  opacity: 0;
+  transition: opacity 1s .2s ease-out;
+}
+
+.site-name.is-positioned .letter {
+  opacity: 1;
 }
 
 .tag-wrap {

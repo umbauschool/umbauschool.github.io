@@ -115,7 +115,9 @@
 
       window.requestAnimationFrame(umbauLax);
     };
+
     umbauLax();
+    umbauTitle.classList.add('is-positioned');
   }
 
   const u = document.querySelector('.site-name a');
