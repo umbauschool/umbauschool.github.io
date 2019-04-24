@@ -34,6 +34,7 @@ The Vienna Studio is currently in its nineteenth year of continuous operation. T
    
 _2019 spring session full_    
 **2020 spring session open**   
+   
 <a class="btn" href="#">Request info</a>    
 
 </div>
@@ -47,6 +48,7 @@ Studio Krakow is currently in its fourth year of continuous operation. The two-w
   
 _2019 summer session full_   
 **2020 summer session open**    
+   
 <a class="btn" href="#">Request info</a>    
 
 </div>
@@ -58,6 +60,7 @@ Our U.S.-based apprenticeship program has expanded into our third studio: Studio
     
 _2019 fall session full_    
 **2020 winter session open**    
+   
 <a class="btn" href="#">Request info</a>   
 
 </div>
