@@ -86,7 +86,7 @@ _2019 fall session full_
 William Tate is an architect and instructor. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. He led the first umbau studio in 2001.
 
    
-## Students  
+/** ## Students  
 
 <div class="person-grid">
 
@@ -113,7 +113,7 @@ William Tate is an architect and instructor. As an architect with Legorreta Arqu
     website="http://zbryant.com"
 %}
 
-</div>
+</div> **/
 
   
 ## Patrons
@@ -122,9 +122,9 @@ Umbau School operations are 100% funded through the generosity of our network of
 
 <div class="deco-right"></div>
 
-<a class="btn" href="#">Become a patron</a>
+<a class="btn" href="https://www.patreon.com/umbau">Become a patron</a>
 
-<ul class="patron-list">
+/** <ul class="patron-list">
   <li>Zachary & Anna Bryant</li>
   <li>Mark Tanner</li>
   <li>Ashley Walton</li>
@@ -133,7 +133,7 @@ Umbau School operations are 100% funded through the generosity of our network of
   <li>Jacob Melton</li>
   <li>John D. & Catherine T. MacArthur</li>
   <li>Daniel & Nina Liebeskind</li>
-</ul>
+</ul> **/
 
 ***   
    
