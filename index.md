@@ -134,20 +134,18 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 ## Patrons + Fundraising   
 
 We are currently hosting a very big fundraising campaign to help raise enough money for:    
+   
+1. umbau is raising $30,000 to fund its first permanent studio space in the U.S. Shenandoah, Virginia, USA.    
 
-<ol>   
-<li> umbau is raising $30,000 to fund its first permanent studio space in the U.S. Shenandoah, Virginia, USA.   
-<li>umbau will use the funding to host a series of free workshops, lectures, and a design project that seeks to build carbon-neutral houses in the Shenandoah Valley.    
-<li>With this initial seed funding, we will develop a full educational model for year-round programming with no-tuition.   
-</ol>   
+2. umbau will use the funding to host a series of free workshops, lectures, and a design project that seeks to build carbon-neutral houses in the Shenandoah Valley.    
+
+3. With this initial seed funding, we will develop a full educational model for year-round programming with no-tuition.      
 
 No donation is too small (or too big!) Any amount helps!   
 
 <div class="deco-right"></div>     
 
 <a class="btn" href="#">Support</a>      
-
-</div>
 
 ***   
    
