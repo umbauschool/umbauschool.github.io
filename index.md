@@ -126,7 +126,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     name="First Last"
     title="Job title"
     bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
-    website="http://zbryant.com"
+    website="http://www.google.com"
 %}
 
 </div>
@@ -146,6 +146,8 @@ No donation is too small (or too big!) Any amount helps!
 <div class="deco-right"></div>     
 
 <a class="btn" href="#">Support</a>      
+
+</div>
 
 ***   
    
