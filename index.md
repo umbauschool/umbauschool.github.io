@@ -5,7 +5,14 @@
 layout: default
 ---
 
-Umbau School forms students to think about themselves, institutions, and the built environment as transformational. We marshal disruption through architecture, theory, integration, and craft. We seek to subvert and sustain. Our supporters, alumni, instructors, collaborators, and students live in an interdependent community of change.
+umbau is an experiment into wonder.  
+
+It is a guerilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for 19 years and Kraków, Poland for 4 years. We have discovered ways into transformation and the miraculous.  
+
+The Bauhaus started 100 years ago.  
+We are after the echo.  
+
+The coming year is given to cultivating our American roots — Studio Shenandoah. We plan to do a radical housing project, monthly weekend workshops, traveling lectures, cultural immersions, and a world premiere. This year is for cracking open.  
 
 ***
    
