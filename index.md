@@ -16,33 +16,28 @@ The coming year is given to cultivating our American roots — Studio Shenandoah
 
 ***
    
-# Healing Architecture
+# Healing Architecture + Education
         
-Umbau manifests in studios, which we understand as modes of study. We believe that radical, sustainable change can best be explored in places of abiding contradiction. In other words: healing is best understood with proximity to wounds.   
+We see a major need for improvement in the spaces we live in and the education we participate in within the United States. We believe that spaces are an inherent part of how we experience the world around us and significantly impact our wellbeing—but our worn-out teaching practices and the current trend of painfully high tuition rates have forced many into creating and living in spaces that do not address their ecological impacts nor give us the quality of life we desire.   
 
-We study in Vienna, Austria because it is a locus of human civilization. It is the portal between east and west and hums with the vibrant exchange of cultures. As a city and as a classroom, Vienna provides a rich context for empathy and a pathology of place.  
+We are at an exciting and pivotal moment in history where we have to respond to the impact humans have made on the natural environment and the missteps we have made in our educational system. The natural and built environment being damaged and uncared for should not be normal. Having years of college loans to pay off without having found a discipline that energizes you should not be normal. umbau is tackling these challenges head-on.   
 
-<div class="deco"></div>
-
-We study in Krakow, Poland because it is a wellspring of resilience. It is the portal between ancient and next. It is a platform for creative adaptation and subversion. As a city and as a classroom, Krakow provides immersion into a durable wit and ingenuity.  
-
-We study in Virginia's Shenandoah Valley because it is a jewel of natural abundance. It is a fresh start and a safe haven with a paradoxical history of flourishing and destruction. As a classroom, Shenandoah provides an opportunity for reconciliation.   
-  
 *** 
-
 
 # Studios
 
 <div class="studios" markdown="1">
 <div class="studio" data-studio="vienna" markdown="1">
 
-## Vienna, Austria
-The Vienna Studio is currently in its nineteenth year of continuous operation. The month-long residential immersion focuses on civilization. Themes include empire, dance, Wagner, river, Loos, stair, and scale.
+## Vienna Studio    
+_Vienna, Austria    
+
+Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, learn from and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, wine farmers, singers, and architects in the world. This thoughtfully crafted program allows both designers and those without a design background to enter the type of thinking we practice at umbau.   
    
 _2019 spring session full_    
 **2020 spring session open**   
    
-<a class="btn" href="#">Request info</a>    
+<a class="btn" href="mailto:info@umbauschool.org?subject=Vienna+Studio+Inquiry">Request info</a>   
 
 </div>
 
@@ -50,25 +45,29 @@ _2019 spring session full_
 
 <div class="studio" data-studio="krakow" markdown="1">
    
-## Krakow, Poland
-Studio Krakow is currently in its fourth year of continuous operation. The two-week residential workshop focuses on making. Themes include propaganda, Lech Wałęsa, lightness, subversion, improvisation, show, and space.
+## Studio Kraków   
+_Kraków, Poland   
+
+Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence and recognize how Krakow, Poland has a rich history of utilizing posters as a vehicle for public conversation around the genuine needs and aspirations of society.   
   
 _2019 summer session full_   
 **2020 summer session open**    
    
-<a class="btn" href="#">Request info</a>    
+<a class="btn" href="mailto:info@umbauschool.org?subject=Studio+Krakow+Inquiry">Request info</a>   
 
 </div>
 
 <div class="studio" data-studio="staunton" markdown="1">
 
-## Staunton, Virginia, USA
-Our U.S.-based apprenticeship program has expanded into our third studio: Studio Shenandoah. Set in the Shenandoah Valley, seasonal workshop series focus on depth. Themes include capital, aikido, permaculture, equity, and material.
+## Studio Shenandoah
+Staunton, Virginia, USA  
+
+Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, “Staunton Werkbund.”   
     
 _2019 fall session full_    
 **2020 winter session open**    
    
-<a class="btn" href="#">Request info</a>   
+<a class="btn" href="mailto:info@umbauschool.org?subject=Studio+Shenandoah+Inquiry">Request info</a>   
 
 </div>
 </div>
@@ -76,11 +75,22 @@ _2019 fall session full_
 
 # About
 
-## There is no tuition.
+umbau is to re-define the role of the architect, even the name.   
+We will leave ‘architect’, and instead, breed LANDERS.   
 
-## There is no accreditation.   
-  
-## There is no degree.    
+umbau, a guerilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
+
+umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. umbau survives on collaboration to implement new solutions, produce transformation.    
+
+umbau will not offer degrees. You simply become a Lander. Lander is a title that is earned. Landers are trained to take the path of most resistance in a chaotic, ever-changing, world. Together we practice architecture differently. We value it as a means for us to explore, think holistically and reintroduce empathy.   
+
+**BUILD PUCCINI.**   
+puccini meaning a beautiful, a timeless, a sensuous, an emotional architecture.
+
+_NO TUITION.  
+NO ACCREDITATION.  
+NO DEGREES._  
+ 
    
 ***   
    
@@ -90,10 +100,9 @@ _2019 fall session full_
 
 <div class="deco"></div>
 
-William Tate is an architect and instructor. As an architect with Legorreta Arquitectos, Robert Collins Architects and Odell Associates, he cultivated umbau practice. As a professor at James Madison University and the University of Southwestern Louisiana, Tate established umbau theory. He led the first umbau studio in 2001.
-
+William Tate founded umbau in 2001 as an educational non-profit and guerilla studio. Through umbau he has led the studios in Vienna and Krakow. As professor of architectural design at James Madison University, Tate has honed his teaching of studio and history. Moments of transformation have included Wake Forest, Virginia Tech, working with Ricardo Legorreta, meeting Luis Barragán, visiting monasteries, every moment in Vienna and Kraków, and the wonder of family. Umbau is an outlet to spread the contagion for the Good.  
    
-## Students  
+## Students = Landers  
 
 <div class="person-grid">
 
@@ -121,26 +130,21 @@ William Tate is an architect and instructor. As an architect with Legorreta Arqu
 %}
 
 </div>
-
   
-## Patrons
+## Patrons + Fundraising
 
-Umbau School operations are 100% funded through the generosity of our network of supporters.   
+We are currently hosting a very big fundraising campaign to help raise enough money for:    
+
+<ol>
+<li> umbau is raising $30,000 to fund its first permanent studio space in the U.S. Shenandoah, Virginia, USA.  
+<li>umbau will use the funding to host a series of free workshops, lectures, and a design project that seeks to build carbon-neutral houses in the Shenandoah Valley.  
+<li>With this initial seed funding, we will develop a full educational model for year-round programming with no-tuition.  
+</ol>
+No donation is too small (or too big!) Any amount helps!  
 
 <div class="deco-right"></div>
 
-<a class="btn" href="https://www.patreon.com/umbau">Become a patron</a>
-
-<ul class="patron-list">
-  <li>Zachary & Anna Bryant</li>
-  <li>Mark Tanner</li>
-  <li>Ashley Walton</li>
-  <li>Elon Musk</li>
-  <li>Gregor</li>
-  <li>Jacob Melton</li>
-  <li>John D. & Catherine T. MacArthur</li>
-  <li>Daniel & Nina Liebeskind</li>
-</ul>
+<a class="btn" href="#">Support</a>
 
 ***   
    
