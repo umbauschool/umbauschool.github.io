@@ -30,14 +30,14 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 <div class="studio" data-studio="vienna" markdown="1">
 
 ## Vienna Studio    
-_Vienna, Austria    
+Vienna, Austria    
 
 Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, learn from and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, wine farmers, singers, and architects in the world. This thoughtfully crafted program allows both designers and those without a design background to enter the type of thinking we practice at umbau.   
    
 _2019 spring session full_    
 **2020 spring session open**   
    
-<a class="btn" href="mailto:info@umbauschool.org?subject=Vienna+Studio+Inquiry">Request info</a>   
+<a class="btn" href="mailto:info@umbauschool.org?subject=Vienna Studio Inquiry">Request info</a>   
 
 </div>
 
@@ -46,20 +46,20 @@ _2019 spring session full_
 <div class="studio" data-studio="krakow" markdown="1">
    
 ## Studio Kraków   
-_Kraków, Poland   
+Kraków, Poland   
 
 Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence and recognize how Krakow, Poland has a rich history of utilizing posters as a vehicle for public conversation around the genuine needs and aspirations of society.   
   
 _2019 summer session full_   
 **2020 summer session open**    
    
-<a class="btn" href="mailto:info@umbauschool.org?subject=Studio+Krakow+Inquiry">Request info</a>   
+<a class="btn" href="mailto:info@umbauschool.org?subject=Studio Krakow Inquiry">Request info</a>   
 
 </div>
 
 <div class="studio" data-studio="staunton" markdown="1">
 
-## Studio Shenandoah
+## Studio Shenandoah   
 Staunton, Virginia, USA  
 
 Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, “Staunton Werkbund.”   
@@ -67,7 +67,7 @@ Studio Shenandoah is a permanent studio and open design education program that w
 _2019 fall session full_    
 **2020 winter session open**    
    
-<a class="btn" href="mailto:info@umbauschool.org?subject=Studio+Shenandoah+Inquiry">Request info</a>   
+<a class="btn" href="mailto:info@umbauschool.org?subject=Studio Shenandoah Inquiry">Request info</a>   
 
 </div>
 </div>
@@ -87,9 +87,9 @@ umbau will not offer degrees. You simply become a Lander. Lander is a title that
 **BUILD PUCCINI.**   
 puccini meaning a beautiful, a timeless, a sensuous, an emotional architecture.
 
-_NO TUITION.  
-NO ACCREDITATION.  
-NO DEGREES._  
+NO TUITION.  
+NO ACCREDITATION.   
+NO DEGREES.    
  
    
 ***   
@@ -108,10 +108,10 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 {% include card.html
     img="/img/student_z.jpg"
-    name="Z. Bryant"
-    title="Agrarian Designer"
-    bio="Z is an amateur designer and an even more amateur farmer."
-    website="http://zbryant.com"
+    name="John Doe"
+    title="Werker"
+    bio="I am busy werking"
+    website="http://www.google.com"
 %}
 
 {% include card.html
@@ -131,20 +131,21 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 </div>
   
-## Patrons + Fundraising
+## Patrons + Fundraising   
 
 We are currently hosting a very big fundraising campaign to help raise enough money for:    
 
-<ol>
-<li> umbau is raising $30,000 to fund its first permanent studio space in the U.S. Shenandoah, Virginia, USA.  
-<li>umbau will use the funding to host a series of free workshops, lectures, and a design project that seeks to build carbon-neutral houses in the Shenandoah Valley.  
-<li>With this initial seed funding, we will develop a full educational model for year-round programming with no-tuition.  
-</ol>
-No donation is too small (or too big!) Any amount helps!  
+<ol>   
+<li> umbau is raising $30,000 to fund its first permanent studio space in the U.S. Shenandoah, Virginia, USA.   
+<li>umbau will use the funding to host a series of free workshops, lectures, and a design project that seeks to build carbon-neutral houses in the Shenandoah Valley.    
+<li>With this initial seed funding, we will develop a full educational model for year-round programming with no-tuition.   
+</ol>   
 
-<div class="deco-right"></div>
+No donation is too small (or too big!) Any amount helps!   
 
-<a class="btn" href="#">Support</a>
+<div class="deco-right"></div>     
+
+<a class="btn" href="#">Support</a>      
 
 ***   
    
