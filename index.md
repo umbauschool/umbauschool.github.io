@@ -85,14 +85,14 @@ umbau will not offer degrees. You simply become a Lander. Lander is a title that
    
 ***   
    
-**BUILD PUCCINI.**   
-puccini meaning a beautiful, a timeless, a sensuous, an emotional architecture.
+**<span style="color:red">BUILD</span> P<span style="color:red">U</span>CCINI.**   
+_puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture.
    
 ***   
    
-NO TUITION.  
-NO ACCREDITATION.   
-NO DEGREES.    
+### NO TUITION.  
+### NO ACCREDITATION.   
+### NO DEGREES.    
  
    
 ***   
