@@ -75,18 +75,21 @@ _2019 fall session full_
 
 # About
 
-umbau is to re-define the role of the architect, even the name.   
-We will leave ‘architect’, and instead, breed LANDERS.   
+umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed LANDERS.   
 
 umbau, a guerilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
 
 umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. umbau survives on collaboration to implement new solutions, produce transformation.    
 
 umbau will not offer degrees. You simply become a Lander. Lander is a title that is earned. Landers are trained to take the path of most resistance in a chaotic, ever-changing, world. Together we practice architecture differently. We value it as a means for us to explore, think holistically and reintroduce empathy.   
-
+   
+***   
+   
 **BUILD PUCCINI.**   
 puccini meaning a beautiful, a timeless, a sensuous, an emotional architecture.
-
+   
+***   
+   
 NO TUITION.  
 NO ACCREDITATION.   
 NO DEGREES.    
@@ -141,7 +144,7 @@ We are currently hosting a very big fundraising campaign to help raise enough mo
 
 3. developing a full educational model for year-round programming with no-tuition.      
 
-No donation is too small (or too big!) Any amount helps!   
+No donation is too small (or too big!) Any amount helps! umbau is a 501(c)(3) non-profit organization and all donations are tax-deductible.  
 
 <div class="deco-right"></div>     
 
@@ -149,4 +152,9 @@ No donation is too small (or too big!) Any amount helps!
 
 ***   
    
-# Contact
+# Contact   
+
+Umbau, Inc.   
+P. O. Box 2784   
+Staunton, VA 24402   
+<a href="mailto:info@umbauschool.org">info@umbauschool.org</a>   
