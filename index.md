@@ -117,7 +117,8 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 {% include card.html
     img="/img/student_z.jpg"
     name="Anna Bryant"
-    title="Painter | Keswick, Virginia"
+    title="Painter"
+    place="Keswick, Virginia"
     bio="Anna finds diverse inspiration in embroidery, natural patterns, and Japanese block printing."
     website="http://www.annabryantpainting.com"
 %}
@@ -133,6 +134,14 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     img="/img/student_z.jpg"
     name="Dr. Monte"
     title="surgeon/ arkitetcurist/ lover | Gary, Indiana"
+    bio="Dr. Monte delightfully engages the head, mind, and spirit as design material."
+    organization="AMoDAOS"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Emilie Dunnenberger"
+    title="Interior Designer"
     bio="Dr. Monte delightfully engages the head, mind, and spirit as design material."
     organization="AMoDAOS"
 %}
