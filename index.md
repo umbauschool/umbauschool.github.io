@@ -173,18 +173,6 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     bio="Charleston, South Carolina"
 %}
 
-{% include card.html
-    img="/img/student_z.jpg"
-    name="Lee Tate"
-    bio="Washington, D.C."
-%}
-
-{% include card.html
-    img="/img/student_z.jpg"
-    name="Lee Tate"
-    bio="Washington, D.C."
-%}
-
 </div>
   
 ## Patrons + Fundraising   
