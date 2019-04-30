@@ -62,7 +62,7 @@ _2019 summer session full_
 ## Studio Shenandoah   
 Staunton, Virginia, USA  
 
-Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, “Staunton Werkbund.”   
+Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._   
     
 _2019 fall session full_    
 **2020 winter session open**    
@@ -103,7 +103,7 @@ _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture
 
 <div class="deco"></div>
 
-William Tate founded umbau in 2001 as an educational non-profit and guerilla studio. Through umbau he has led the studios in Vienna and Krakow. As professor of architectural design at James Madison University, Tate has honed his teaching of studio and history. Moments of transformation have included Wake Forest, Virginia Tech, working with Ricardo Legorreta, meeting Luis Barragán, visiting monasteries, every moment in Vienna and Kraków, and the wonder of family. Umbau is an outlet to spread the contagion for the Good.  
+William Tate founded umbau in 2001 as an educational non-profit and guerilla studio. Through umbau he has led the studios in Vienna and Krakow. As professor of architectural design at James Madison University, Tate has honed his teaching of studio and history. Moments of transformation have included Wake Forest, Virginia Tech, working with Ricardo Legorreta, meeting Luis Barragán, visiting monasteries, every moment in Vienna and Kraków, and the wonder of family. umbau is an outlet to spread the contagion for the Good.  
    
 ## Students = Landers  
 
@@ -118,24 +118,22 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     img="/img/student_z.jpg"
     name="Anna Bryant"
     title="Painter"
-    place="Keswick, Virginia"
-    bio="Anna finds diverse inspiration in embroidery, natural patterns, and Japanese block printing."
-    website="http://www.annabryantpainting.com"
+    location="Keswick, Virginia"
+    website="http://annabryantpainting.com"
 %}
 
 {% include card.html
     img="/img/student_z.jpg"
     name="Colleen West"
-    title="Atmospheric Designer | Leesburg, Virginia"
-    website="http://www.colleenrwest.com"
+    title="Atmospheric Designer"
+    location="Leesburg, Virginia"
+    website="http://colleenrwest.com"
 %}
 
 {% include card.html
     img="/img/student_z.jpg"
     name="Dr. Monte"
     title="surgeon/ arkitetcurist/ lover | Gary, Indiana"
-    bio="Dr. Monte delightfully engages the head, mind, and spirit as design material."
-    organization="AMoDAOS"
 %}
 
 {% include card.html
