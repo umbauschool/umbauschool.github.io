@@ -118,7 +118,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     img="/img/student_z.jpg"
     name="Anna Bryant"
     title="Painter"
-    location="Keswick, Virginia"
+    bio="Keswick, Virginia"
     website="http://annabryantpainting.com"
 %}
 
@@ -126,22 +126,63 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     img="/img/student_z.jpg"
     name="Colleen West"
     title="Atmospheric Designer"
-    location="Leesburg, Virginia"
+    bio="Leesburg, Virginia"
     website="http://colleenrwest.com"
 %}
 
 {% include card.html
     img="/img/student_z.jpg"
     name="Dr. Monte"
-    title="surgeon/ arkitetcurist/ lover | Gary, Indiana"
+    title="surgeon/ arkitetcurist/ lover
+    bio="Gary, Indiana"
 %}
 
 {% include card.html
     img="/img/student_z.jpg"
     name="Emilie Dunnenberger"
     title="Interior Designer"
-    bio="Dr. Monte delightfully engages the head, mind, and spirit as design material."
-    organization="AMoDAOS"
+    bio="Baltimore, Maryland"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Hannah"
+    title="Art Director, Producer"
+    bio="Philadelphia, Pennslyvania"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="JB"
+    title="who the F$$$ knows"
+    bio="Philadelphia, Pennslyvania"
+    website="http://studioron.com"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Kaitlyn Pirrello"
+    title="Architectural Designer"
+    bio="Clifton, New Jersey"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Kelly Bulak"
+    title="Interior Architect"
+    bio="Charleston, South Carolina"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Lee Tate"
+    bio="Washington, D.C."
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Lee Tate"
+    bio="Washington, D.C."
 %}
 
 </div>
