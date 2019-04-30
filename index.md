@@ -75,7 +75,7 @@ _2019 fall session full_
 
 # About
 
-umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed LANDERS.   
+umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed **LANDERS**.   
 
 umbau, a guerilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
 
@@ -111,25 +111,30 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 {% include card.html
     img="/img/student_z.jpg"
-    name="John Doe"
-    title="Werker"
-    bio="I am busy werking"
-    website="http://www.google.com"
+    website="#"
 %}
 
 {% include card.html
     img="/img/student_z.jpg"
-    name="First Last"
-    title="Job title"
-    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    name="Anna Bryant"
+    title="Painter | Keswick, Virginia"
+    bio="Anna finds diverse inspiration in embroidery, natural patterns, and Japanese block printing."
+    website="http://www.annabryantpainting.com"
 %}
 
 {% include card.html
     img="/img/student_z.jpg"
-    name="First Last"
-    title="Job title"
-    bio="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
-    website="http://www.google.com"
+    name="Colleen West"
+    title="Atmospheric Designer | Leesburg, Virginia"
+    website="http://www.colleenrwest.com"
+%}
+
+{% include card.html
+    img="/img/student_z.jpg"
+    name="Dr. Monte"
+    title="surgeon/ arkitetcurist/ lover | Gary, Indiana"
+    bio="Dr. Monte delightfully engages the head, mind, and spirit as design material."
+    organization="AMoDAOS"
 %}
 
 </div>
