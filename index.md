@@ -111,23 +111,11 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 <div class="person-grid">
 
 {% include card.html
-    img="/img/student_z.jpg"
-    website="#"
-%}
-
-{% include card.html
     img="/img/colleen.jpg"
     name="Colleen West"
     title="Atmospheric Designer"
     bio="Leesburg, Virginia"
     website="http://colleenrwest.com"
-%}
-
-{% include card.html
-    img="/img/student_z.jpg"
-    name="Dr. Monte"
-    title="surgeon/ arkitetcurist/ lover"
-    bio="Gary, Indiana"
 %}
 
 {% include card.html
@@ -145,7 +133,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/student_z.jpg"
+    img="/img/justin.jpg"
     name="JB"
     title="who the F$$$ knows"
     bio="Philadelphia, Pennslyvania"
@@ -153,7 +141,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/student_z.jpg"
+    img="/img/kaitlyn.jpg"
     name="Kaitlyn Pirrello"
     title="Architectural Designer"
     bio="Clifton, New Jersey"
@@ -165,6 +153,23 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     title="Interior Architect"
     bio="Charleston, South Carolina"
 %}
+
+{% include card.html
+    img="/img/michelle.jpg"
+    name="Michelle"
+    title="experimentalitst, architect, researcher"
+    bio="Camden, Maine"
+    website="studiombns.com"
+    website="michellebezik.com"
+%}
+
+{% include card.html
+    img="/img/monte.jpg"
+    name="Monte Oyd Harris"
+    title="Surgeon/Healer"
+    bio="Gary, Indiana"
+%}
+
 
 </div>
   
