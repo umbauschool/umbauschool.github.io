@@ -101,7 +101,7 @@ _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture
 
 <div class="deco"></div>
 
-William Tate founded umbau in 2001 as an educational non-profit and guerilla studio. Through umbau he has led the studios in Vienna and Krakow. As professor of architectural design at James Madison University, Tate has honed his teaching of studio and history. Moments of transformation have included Wake Forest, Virginia Tech, working with Ricardo Legorreta, meeting Luis Barragán, visiting monasteries, every moment in Vienna and Kraków, and the wonder of family. umbau is an outlet to spread the contagion for the Good.  
+William Tate founded umbau in 2001 as an educational non-profit and guerilla studio. Through umbau he has led the studios in Vienna and Kraków. As professor of architectural design at James Madison University, Tate has honed his teaching of studio and history. Moments of transformation have included Wake Forest, Virginia Tech, working with Ricardo Legorreta, meeting Luis Barragán, visiting monasteries, every moment in Vienna and Kraków, and the wonder of family. umbau is an outlet to spread the contagion for the Good.  
    
 ## Students = Landers  
 
