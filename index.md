@@ -195,6 +195,13 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
+    img="/img/william.jpg"
+    name="William Tate"
+    title="Team Chef"
+    bio="Staunton, Virginia"
+%}
+
+{% include card.html
     img="/img/z.jpg"
     name="Z. Bryant"
     title="Creative Director"
