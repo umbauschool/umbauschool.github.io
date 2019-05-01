@@ -159,8 +159,12 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     name="Michelle"
     title="experimentalitst, architect, researcher"
     bio="Camden, Maine"
-    website="studiombns.com"
-    website="michellebezik.com"
+    website="http://michellebezik.com"
+%}
+
+{% include card.html
+    img="/img/michael.jpg"
+    name="Michael"
 %}
 
 {% include card.html
@@ -168,6 +172,36 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     name="Monte Oyd Harris"
     title="Surgeon/Healer"
     bio="Gary, Indiana"
+%}
+
+{% include card.html
+    img="/img/nicole.jpg"
+    name="Nicole"
+    title="designer / maker / thinker / architect"
+    bio="Philadelphia, Pennslyvania"
+    website="http://nicolesalnikov.com"
+%}
+
+{% include card.html
+    img="/img/tanner.jpg"
+    name="Tanner Schreiber-May"
+    title="Experiential Graphic Designer"
+    bio="Charlottesville, Virginia"
+%}
+
+{% include card.html
+    img="/img/tim.jpg"
+    name="Timothy Moore"
+    title="Learning Experience Designer"
+    bio="Brooklyn, New York"
+    website="https://thedesigngym.com/timothy-moore/"
+%}
+
+{% include card.html
+    img="/img/z.jpg"
+    name="Z. Bryant"
+    title="Creative Director"
+    website="http://journeygroup.com"
 %}
 
 
