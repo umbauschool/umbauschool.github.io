@@ -116,6 +116,13 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
+    img="/img/monte.jpg"
+    name="Dr. Monte"
+    title="Surgeon/Healer"
+    bio="Gary, Indiana"
+%}
+
+{% include card.html
     img="/img/emilie.jpg"
     name="Emilie Dunnenberger"
     title="Interior Designer"
@@ -163,13 +170,6 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     title="experimentalist, architect, researcher"
     bio="Camden, Maine"
     website="http://michellebezik.com"
-%}
-
-{% include card.html
-    img="/img/monte.jpg"
-    name="Monte Oyd Harris"
-    title="Surgeon/Healer"
-    bio="Gary, Indiana"
 %}
 
 {% include card.html
