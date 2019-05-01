@@ -30,9 +30,8 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 <div class="studio" data-studio="vienna" markdown="1">
 
 ## Vienna Studio    
-Vienna, Austria    
 
-Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, learn from and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, wine farmers, singers, and architects in the world. This thoughtfully crafted program allows both designers and those without a design background to enter the type of thinking we practice at umbau.   
+**Vienna, Austria** / Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, learn from and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, wine farmers, singers, and architects in the world. This thoughtfully crafted program allows both designers and those without a design background to enter the type of thinking we practice at umbau.   
    
 _2019 spring session full_    
 **2020 spring session open**   
@@ -46,9 +45,8 @@ _2019 spring session full_
 <div class="studio" data-studio="krakow" markdown="1">
    
 ## Studio Kraków   
-Kraków, Poland   
 
-Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence and recognize how Krakow, Poland has a rich history of utilizing posters as a vehicle for public conversation around the genuine needs and aspirations of society.   
+**Kraków, Poland** / Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence and recognize how Krakow, Poland has a rich history of utilizing posters as a vehicle for public conversation around the genuine needs and aspirations of society.   
   
 _2019 summer session full_   
 **2020 summer session open**    
@@ -60,9 +58,8 @@ _2019 summer session full_
 <div class="studio" data-studio="staunton" markdown="1">
 
 ## Studio Shenandoah   
-Staunton, Virginia, USA  
 
-Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._   
+**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._   
     
 _2019 fall session full_    
 **2020 winter session open**    
@@ -155,16 +152,16 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
+    img="/img/michael.jpg"
+    name="Michael"
+%}
+
+{% include card.html
     img="/img/michelle.jpg"
     name="Michelle"
     title="experimentalitst, architect, researcher"
     bio="Camden, Maine"
     website="http://michellebezik.com"
-%}
-
-{% include card.html
-    img="/img/michael.jpg"
-    name="Michael"
 %}
 
 {% include card.html
