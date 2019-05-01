@@ -98,7 +98,9 @@ _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture
    
 ## Director
 
+<div>
 <img class="img--full" src="/img/Tate.jpg" alt="William Tate">
+</div>
 
 <div class="deco"></div>
 
@@ -124,7 +126,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 {% include card.html
     img="/img/student_z.jpg"
     name="Dr. Monte"
-    title="surgeon/ arkitetcurist/ lover
+    title="surgeon/ arkitetcurist/ lover"
     bio="Gary, Indiana"
 %}
 

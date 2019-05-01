@@ -470,6 +470,7 @@ main .btn:hover {
 }
 
 .img--full {
+  margin-bottom: 30px;
   max-width: none;
   width: calc(100% + var(--outside-border-width) * 1.5);
 }
