@@ -198,7 +198,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     name="Timothy Moore"
     title="Learning Experience Designer"
     bio="Brooklyn, New York"
-    website="https://thedesigngym.com/timothy-moore/"
+    website="https://thedesigngym.com"
 %}
 
 {% include card.html
