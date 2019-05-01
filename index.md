@@ -93,7 +93,6 @@ _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture
 ### NO TUITION.  
 ### NO ACCREDITATION.   
 ### NO DEGREES.    
- 
    
 ***   
    
@@ -112,14 +111,6 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 {% include card.html
     img="/img/student_z.jpg"
     website="#"
-%}
-
-{% include card.html
-    img="/img/student_z.jpg"
-    name="Anna Bryant"
-    title="Painter"
-    bio="Keswick, Virginia"
-    website="http://annabryantpainting.com"
 %}
 
 {% include card.html
