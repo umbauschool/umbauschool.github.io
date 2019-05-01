@@ -116,7 +116,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/student_z.jpg"
+    img="/img/colleen.jpg"
     name="Colleen West"
     title="Atmospheric Designer"
     bio="Leesburg, Virginia"
@@ -131,14 +131,14 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/student_z.jpg"
+    img="/img/emilie.jpg"
     name="Emilie Dunnenberger"
     title="Interior Designer"
     bio="Baltimore, Maryland"
 %}
 
 {% include card.html
-    img="/img/student_z.jpg"
+    img="/img/hannah.jpg"
     name="Hannah"
     title="Art Director, Producer"
     bio="Philadelphia, Pennslyvania"
@@ -160,7 +160,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/student_z.jpg"
+    img="/img/bulak.jpg"
     name="Kelly Bulak"
     title="Interior Architect"
     bio="Charleston, South Carolina"
