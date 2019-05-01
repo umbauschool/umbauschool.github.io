@@ -187,18 +187,18 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
+    img="/img/william.jpg"
+    name="Tate"
+    title="Team Chef"
+    bio="Staunton, Virginia"
+%}
+
+{% include card.html
     img="/img/tim.jpg"
     name="Timothy Moore"
     title="Learning Experience Designer"
     bio="Brooklyn, New York"
     website="https://thedesigngym.com/timothy-moore/"
-%}
-
-{% include card.html
-    img="/img/william.jpg"
-    name="Tate"
-    title="Team Chef"
-    bio="Staunton, Virginia"
 %}
 
 {% include card.html
