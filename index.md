@@ -159,7 +159,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 {% include card.html
     img="/img/michelle.jpg"
     name="Michelle"
-    title="experimentalitst, architect, researcher"
+    title="experimentalist, architect, researcher"
     bio="Camden, Maine"
     website="http://michellebezik.com"
 %}
