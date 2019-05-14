@@ -61,8 +61,7 @@ _2019 summer session full_
 
 **Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._   
     
-_2019 fall session full_    
-**2020 winter session open**    
+**2019 fall session open**    
    
 <a class="btn" href="mailto:info@umbauschool.org?subject=Studio Shenandoah Inquiry">Request info</a>   
 
@@ -108,6 +107,14 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 <div class="person-grid">
 
 {% include card.html
+    img="/img/anna.jpg"
+    name="Anna Thompson"
+    title="Graphic Designer/Letterpress Printer"
+    bio="Richmond, Virginia"
+    website="http://palindromecreativeco.com"
+%}
+
+{% include card.html
     img="/img/colleen.jpg"
     name="Colleen West"
     title="Atmospheric Designer"
@@ -138,6 +145,14 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
+    img="/img/joanna.jpg"
+    name="Joanna Pottle"
+    title="Fulbright Scholar/Artist"
+    bio="Richmond, Virginia/Krakow, Poland"
+    website="http://joannapottle.com"
+%}
+
+{% include card.html
     img="/img/justin.jpg"
     name="JB"
     title="who the F$$$ knows"
@@ -160,8 +175,17 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
+    img="/img/lee.jpg"
+    name="Lee Tate"
+    title="Civil Servant in the Pentagon"
+    bio="Arlington, Virginia"
+%}
+
+{% include card.html
     img="/img/michael.jpg"
-    name="Michael"
+    name="Michael Draeger"
+    title="Furniture Designer"
+    bio="Williamsburg, Virginia"
 %}
 
 {% include card.html
