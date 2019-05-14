@@ -175,7 +175,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/lee.jpg"
+    img="/img/lee-tate.jpg"
     name="Lee Tate"
     title="Civil Servant in the Pentagon"
     bio="Arlington, Virginia"
