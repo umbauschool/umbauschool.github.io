@@ -125,9 +125,10 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 {% include card.html
     img="/img/monte.jpg"
-    name="Dr. Monte"
+    name="Dr. Monte Oyd Harris"
     title="Surgeon/Healer"
     bio="Gary, Indiana"
+    website="http://www.harrisface.com"
 %}
 
 {% include card.html
@@ -135,14 +136,15 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     name="Emilie Dunnenberger"
     title="Interior Designer"
     bio="Baltimore, Maryland"
+    website="https://asg-architects.com"
 %}
 
 {% include card.html
     img="/img/hannah.jpg"
-    name="Hannah"
+    name="Hannah Candelaria"
     title="Art Director, Producer"
     bio="Philadelphia, Pennslyvania"
-    website="http://studioron.com"
+    website="https://www.womanlymag.com"
 %}
 
 {% include card.html
@@ -155,7 +157,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 {% include card.html
     img="/img/justin.jpg"
-    name="JB"
+    name="Justin Bernard"
     title="who the F$$$ knows"
     bio="Philadelphia, Pennslyvania"
     website="http://studioron.com"
@@ -191,7 +193,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 {% include card.html
     img="/img/michelle.jpg"
-    name="Michelle"
+    name="Michelle Bezik"
     title="experimentalist, architect, researcher"
     bio="Camden, Maine"
     website="http://michellebezik.com"
@@ -199,10 +201,18 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 {% include card.html
     img="/img/nicole.jpg"
-    name="Nicole"
+    name="Nicole Salnikov"
     title="designer / maker / thinker / architect"
     bio="Philadelphia, Pennslyvania"
     website="http://nicolesalnikov.com"
+%}
+
+{% include card.html
+    img="/img/nicole.jpg"
+    name="Oskar Kalinowski"
+    title="multidiscplinary artist + photographer"
+    bio="Philadelphia, Pennslyvania"
+    website="https://www.oskarkalinowski.com"
 %}
 
 {% include card.html
