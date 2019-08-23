@@ -248,7 +248,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 </div>
   
-## Support Us   
+# Support Us   
 
 Want to help shape the spaces we live in and push for the revitalization of design education? Help fund umbau! 100% of your gift will go towards our tuition-free, environmentally-focused architecture program: Studio Shenandoah. We launched Studio Shenandoah in 2019 because we believe learning should be free and the current trend of painfully high tuition rates needs to come to a halt. We also saw a need for a school that truly designs for the natural environment. If you are compelled by our mission and value the importance of architecture, education, art, design, and sustainability, please donate and help us spread the Good.
 
