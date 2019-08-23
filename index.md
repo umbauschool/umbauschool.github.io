@@ -208,7 +208,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/nicole.jpg"
+    img="/img/oskar.jpg"
     name="Oskar Kalinowski"
     title="multidiscplinary artist + photographer"
     bio="Philadelphia, Pennslyvania"
