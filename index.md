@@ -273,6 +273,6 @@ P. O. Box 2784
 Staunton, VA 24402   
 <a href="mailto:info@umbauschool.org">info@umbauschool.org</a>   
 
-(Instagram)[https://www.instagram.com/umbaulanders]     
+<a class="btn" href="https://www.instagram.com/umbaulanders">Instagram</a>     
 
-(Facebook)[https://www.facebook.com/umbaulanders]    
+<a class="btn" href="https://www.facebook.com/umbaulanders">Facebook</a>     
