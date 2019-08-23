@@ -93,7 +93,7 @@ _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture
    
 ***   
    
-## Director
+## Founding Director
 
 <div>
 <img class="img--full" src="/img/Tate.jpg" alt="William Tate">
@@ -272,3 +272,7 @@ Umbau, Inc.
 P. O. Box 2784   
 Staunton, VA 24402   
 <a href="mailto:info@umbauschool.org">info@umbauschool.org</a>   
+
+(Instagram)[https://www.instagram.com/umbaulanders]     
+
+(Facebook)[https://www.facebook.com/umbaulanders]    
