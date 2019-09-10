@@ -240,9 +240,9 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 {% include card.html
     img="/img/z.jpg"
     name="Z. Bryant"
-    title="Creative Director"
+    title="Agrarian"
     bio="Virginia"
-    website="http://journeygroup.com"
+    website="http://zbryant.com"
 %}
 
 
