@@ -57,10 +57,11 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 ## Studio Shenandoah   
 
-**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._       
-_2020 spring session full_ 
-**2020 fall session open**
+**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._
 
+_2020 spring session full_   
+**2020 fall session open**  
+  
 <a class="btn" href="mailto:info@umbauschool.org?subject=Studio Shenandoah Inquiry">Request info</a>   
 
 </div>
