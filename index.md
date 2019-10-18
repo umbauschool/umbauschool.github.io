@@ -33,7 +33,6 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 **Vienna, Austria** / Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, learn from and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, wine farmers, singers, and architects in the world. This thoughtfully crafted program allows both designers and those without a design background to enter the type of thinking we practice at umbau.   
    
-_2019 spring session full_    
 **2020 spring session open**   
    
 <a class="btn" href="mailto:info@umbauschool.org?subject=Vienna Studio Inquiry">Request info</a>   
@@ -48,7 +47,6 @@ _2019 spring session full_
 
 **Kraków, Poland** / Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence and recognize how Krakow, Poland has a rich history of utilizing posters as a vehicle for public conversation around the genuine needs and aspirations of society.   
   
-_2019 summer session full_   
 **2020 summer session open**    
    
 <a class="btn" href="mailto:info@umbauschool.org?subject=Studio Krakow Inquiry">Request info</a>   
@@ -59,10 +57,9 @@ _2019 summer session full_
 
 ## Studio Shenandoah   
 
-**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._   
-    
-_2019 fall session full_   
-**2020 spring session open** 
+**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._       
+_2020 spring session full_ 
+**2020 fall session open**
 
 <a class="btn" href="mailto:info@umbauschool.org?subject=Studio Shenandoah Inquiry">Request info</a>   
 
