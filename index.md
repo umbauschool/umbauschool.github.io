@@ -5,14 +5,14 @@
 layout: default
 ---
 
-umbau is an experiment into wonder.  
+Umbau is an experiment into wonder.  
 
 It is a guerilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for 19 years and Kraków, Poland for 4 years. We have discovered ways into transformation and the miraculous.  
 
 The Bauhaus started 100 years ago.  
 We are after the echo.  
 
-The coming year is given to cultivating our American roots — Studio Shenandoah. We plan to do a radical housing project, monthly weekend workshops, traveling lectures, cultural immersions, and a world premiere. This year is for cracking open.  
+We are focused on cultivating our roots in America through Studio Shenandoah. We plan to do a radical housing project, monthly weekend workshops, traveling lectures, cultural immersions, and a world premiere. This year is for cracking open.  
 
 ***
    
@@ -57,7 +57,7 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 ## Studio Shenandoah   
 
-**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that will take place in fall and spring and will include a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._
+**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that includes a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._
 
 _2020 spring session full_   
 **2020 fall session open**  
