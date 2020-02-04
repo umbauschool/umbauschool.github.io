@@ -600,7 +600,7 @@ main .btn:hover {
 
 .person-card:hover .person-card__img,
 .person-card__img-wrap.in-view .person-card__img {
-  filter: blur(0);
+  //* filter: blur(0); *//
   transform: scale(1);
 }
 
