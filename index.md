@@ -7,7 +7,7 @@ layout: default
 
 Umbau is an experiment into wonder.  
 
-It is a guerilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for 19 years and Kraków, Poland for 4 years. We have discovered ways into transformation and the miraculous.  
+It is a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for 19 years and Kraków, Poland for 4 years. We have discovered ways into transformation and the miraculous.  
 
 The Bauhaus started 100 years ago.  
 We are after the echo.  
@@ -72,7 +72,7 @@ _2020 spring session full_
 
 Umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed **LANDERS**.   
 
-Umbau, a guerilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
+Umbau, a guerrilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
 
 Umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. Umbau survives on collaboration to implement new solutions, produce transformation.    
 
