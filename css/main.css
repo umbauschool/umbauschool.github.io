@@ -572,13 +572,13 @@ main .btn:hover {
 
 @media (min-width: 750px) {
   .person-grid .person-card {
-    width: calc(50% - 30px);
+   width: calc(50% - 30px);
   }
 }
 
 @media (min-width: 1000px) {
   .person-grid .person-card {
-    width: calc(33.3333% - 30px);
+   width: calc(33.3333% - 30px);
   }
 }
 
@@ -620,7 +620,7 @@ a.person-card:hover .person-card__website {
 }
 
 .person-card__img {
-  filter: blur(10px);
+  //* filter: blur(10px); *//
   transform: scale(1.1);
   transition: filter .5s, transform .5s;
 }
