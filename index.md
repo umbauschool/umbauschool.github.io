@@ -20,7 +20,7 @@ We are focused on cultivating our roots in America through Studio Shenandoah. We
         
 We see a major need for improvement in the spaces we live in and the education we participate in within the United States. We believe that spaces are an inherent part of how we experience the world around us and significantly impact our wellbeing—but our worn-out teaching practices and the current trend of painfully high tuition rates have forced many into creating and living in spaces that do not address their ecological impacts nor give us the quality of life we desire.   
 
-We are at an exciting and pivotal moment in history where we have to respond to the impact humans have made on the natural environment and the missteps we have made in our educational system. The natural and built environment being damaged and uncared for should not be normal. Having years of college loans to pay off without having found a discipline that energizes you should not be normal. umbau is tackling these challenges head-on.   
+We are at an exciting and pivotal moment in history where we have to respond to the impact humans have made on the natural environment and the missteps we have made in our educational system. The natural and built environment being damaged and uncared for should not be normal. Having years of college loans to pay off without having found a discipline that energizes you should not be normal. Umbau is tackling these challenges head-on.   
 
 *** 
 
@@ -70,13 +70,13 @@ _2020 spring session full_
 
 # About
 
-umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed **LANDERS**.   
+Umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed **LANDERS**.   
 
-umbau, a guerilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
+Umbau, a guerilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
 
-umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. umbau survives on collaboration to implement new solutions, produce transformation.    
+Umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. Umbau survives on collaboration to implement new solutions, produce transformation.    
 
-umbau will not offer degrees. You simply become a Lander. Lander is a title that is earned. Landers are trained to take the path of most resistance in a chaotic, ever-changing, world. Together we practice architecture differently. We value it as a means for us to explore, think holistically and reintroduce empathy.   
+Umbau will not offer degrees. You simply become a Lander. Lander is a title that is earned. Landers are trained to take the path of most resistance in a chaotic, ever-changing, world. Together we practice architecture differently. We value it as a means for us to explore, think holistically and reintroduce empathy.   
    
 ***   
    
@@ -99,7 +99,7 @@ _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture
 
 <div class="deco"></div>
 
-William Tate founded umbau in 2001 as an educational non-profit and guerilla studio. Through umbau he has led the studios in Vienna and Kraków. As professor of architectural design at James Madison University, Tate has honed his teaching of studio and history. Moments of transformation have included Wake Forest, Virginia Tech, working with Ricardo Legorreta, meeting Luis Barragán, visiting monasteries, every moment in Vienna and Kraków, and the wonder of family. umbau is an outlet to spread the contagion for the Good.  
+William Tate founded umbau in 2001 as an educational non-profit and guerilla studio. Through umbau he has led the studios in Vienna and Kraków. As professor of architectural design at James Madison University, Tate has honed his teaching of studio and history. Moments of transformation have included Wake Forest, Virginia Tech, working with Ricardo Legorreta, meeting Luis Barragán, visiting monasteries, every moment in Vienna and Kraków, and the wonder of family. Umbau is an outlet to spread the contagion for the Good.  
    
 ## Students = Landers  
 
