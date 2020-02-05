@@ -16,12 +16,13 @@ We are focused on cultivating our roots in America through Studio Shenandoah. We
 
 ***
 
-# Umbau World Premiere
+# umbau world premiere
 
-**SAVE THE DATE
+### SAVE THE DATE
 
-**Friday, March 27** Staunton, VA
-**Saturday, March 28–Sunday, March 29** Washington, D.C.
+**Friday, March 27**  Staunton, VA     
+
+**Saturday, March 28–Sunday, March 29**  Washington, D.C.   
 
 We are starting something never before dreamed of. A new school for architecture. A whole new take on education. 11 months long, deep immersion, world changing. To get the word out, umbau is going on tour. And to celebrate the never before, we are bringing Gregor Eichinger in from Vienna, Austria. It will be a new form of Gregor Crawl, but this time in the Shenandoah Valley and Washington, D.C., in a series of group chats, a public lecture, panel discussion, and general wandering... We want you to join us. You former Viennese, you Krakowians, you supporters, you believers, you new ones who want to take the dare, you curious, you outliers, you...  
 
@@ -35,7 +36,7 @@ Think volcano. Think comet. Think...
 
 ***
 
-# Healing Architecture + Education
+# healing architecture + education
         
 We see a major need for improvement in the spaces we live in and the education we participate in within the United States. We believe that spaces are an inherent part of how we experience the world around us and significantly impact our wellbeing—but our worn-out teaching practices and the current trend of painfully high tuition rates have forced many into creating and living in spaces that do not address their ecological impacts nor give us the quality of life we desire.   
 
@@ -43,12 +44,12 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 *** 
 
-# Studios
+# studios
 
 <div class="studios" markdown="1">
 <div class="studio" data-studio="vienna" markdown="1">
 
-## Vienna Studio    
+## vienna studio    
 
 **Vienna, Austria** / Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, learn from and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, wine farmers, singers, and architects in the world. This thoughtfully crafted program allows both designers and those without a design background to enter the type of thinking we practice at umbau.   
    
@@ -62,7 +63,7 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 <div class="studio" data-studio="krakow" markdown="1">
    
-## Studio Kraków   
+## studio kraków   
 
 **Kraków, Poland** / Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence and recognize how Krakow, Poland has a rich history of utilizing posters as a vehicle for public conversation around the genuine needs and aspirations of society.   
   
@@ -74,7 +75,7 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 <div class="studio" data-studio="staunton" markdown="1">
 
-## Studio Shenandoah   
+## studio shenandoah   
 
 **Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that includes a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._
 
@@ -87,7 +88,7 @@ _2020 spring session full_
 </div>
 
 
-# About
+# about
 
 Umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed **LANDERS**.   
 
@@ -265,7 +266,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 </div>
   
-# Support Us   
+# support us   
 
 Want to help shape the spaces we live in and push for the revitalization of design education? Help fund umbau! 100% of your gift will go towards our tuition-free, environmentally-focused architecture program: Studio Shenandoah. We launched Studio Shenandoah in 2019 because we believe learning should be free and the current trend of painfully high tuition rates needs to come to a halt. We also saw a need for a school that truly designs for the natural environment. If you are compelled by our mission and value the importance of architecture, education, art, design, and sustainability, please donate and help us spread the Good.
 
@@ -277,7 +278,7 @@ No donation is too small (or too big!). Any amount helps! umbau is a 501(c)(3) n
 
 ***   
    
-# Contact   
+# contact   
 
 Umbau, Inc.   
 P. O. Box 2784   
