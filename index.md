@@ -7,7 +7,7 @@ layout: default
 
 Umbau is an experiment into wonder.  
 
-It is a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for 19 years and Kraków, Poland for 4 years. We have discovered ways into transformation and the miraculous.  
+It is a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for twenty years and Kraków, Poland for five years. We have discovered ways into transformation and the miraculous.  
 
 The Bauhaus started 100 years ago.  
 We are after the echo.  
