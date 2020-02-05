@@ -15,12 +15,11 @@ We are after the echo.
 We are focused on cultivating our roots in America through Studio Shenandoah. We plan to do a radical housing project, monthly weekend workshops, traveling lectures, cultural immersions, and a world premiere. This year is for cracking open.  
 
 ***
+
+# umbau world premiere
 <div>
 <img class="img--full" src="/img/world-premiere.png" alt="World Premiere">
 </div>
-
-# umbau world premiere
-
 ### SAVE THE DATE
 
 **Friday, March 27**  Staunton, VA     
