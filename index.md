@@ -243,7 +243,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 %}
 
 {% include card.html
-    img="/img/tanner-leslie.jpg"
+    img="/img/tanner-leslie.png"
     name="Tanner Ashton Leslie"
     title="Interdisciplinary Designer"
     bio="New York, New York"
