@@ -239,6 +239,15 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     name="Tanner Schreiber-May"
     title="Experiential Graphic Designer"
     bio="Charlottesville, Virginia"
+    website="https://tannerschreibermay.com/"
+%}
+
+{% include card.html
+    img="/img/tanner-leslie.jpg"
+    name="Tanner Ashton Leslie"
+    title="Interdisciplinary Designer"
+    bio="New York, New York"
+    website="http://www.tannerleslie.com/"
 %}
 
 {% include card.html
