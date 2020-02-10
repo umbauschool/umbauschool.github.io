@@ -5,17 +5,6 @@
 layout: default
 ---
 
-Umbau is an experiment into wonder.  
-
-It is a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for twenty years and Kraków, Poland for five years. We have discovered ways into transformation and the miraculous.  
-
-The Bauhaus started 100 years ago.  
-We are after the echo.  
-
-We are focused on cultivating our roots in America through Studio Shenandoah. We plan to do a radical housing project, monthly weekend workshops, traveling lectures, cultural immersions, and a world premiere. This year is for cracking open.  
-
-***
-
 # umbau world premiere
 <div>
 <img class="img--full" src="/img/world-premiere.png" alt="World Premiere">
@@ -34,6 +23,17 @@ Stay posted. Then come join us. Come enter the world of Landers. We are starting
 Think volcano. Think comet. Think...  
 
 ### BUILD PUCCINI
+
+***
+
+Umbau is an experiment into wonder.  
+
+It is a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for twenty years and Kraków, Poland for five years. We have discovered ways into transformation and the miraculous.  
+
+The Bauhaus started 100 years ago.  
+We are after the echo.  
+
+We are focused on cultivating our roots in America through Studio Shenandoah. We plan to do a radical housing project, monthly weekend workshops, traveling lectures, cultural immersions, and a world premiere. This year is for cracking open.  
 
 ***
 
