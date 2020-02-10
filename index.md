@@ -11,8 +11,8 @@ layout: default
 </div>
 ### SAVE THE DATE
 
-**Friday, March 27**  Staunton, VA     
-**Saturday, March 28–Sunday, March 29**  Washington, D.C.   
+**Friday, March 27** Staunton, VA     
+**Saturday, March 28** Washington, D.C.       
 
 We are starting something never before dreamed of. A new school for architecture. A whole new take on education. 11 months long, deep immersion, world changing. To get the word out, umbau is going on tour. And to celebrate the never before, we are bringing Gregor Eichinger in from Vienna, Austria. It will be a new form of Gregor Crawl, but this time in the Shenandoah Valley and Washington, D.C., in a series of group chats, a public lecture, panel discussion, and general wandering... we want you to join us.  
 
