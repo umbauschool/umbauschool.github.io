@@ -223,7 +223,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 {% include card.html
     img="/img/nicole.jpg"
     name="Nicole Salnikov"
-    title="designer / maker / thinker / architect"
+    title="designer + maker"
     bio="Philadelphia, Pennslyvania"
     website="http://nicolesalnikov.com"
 %}
