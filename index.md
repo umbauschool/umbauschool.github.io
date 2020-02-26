@@ -11,7 +11,7 @@ layout: default
 </div>
 with renowned Viennese architect, Gregor Eichinger   
 
-<a class="btn" href="bit.ly/umbau-march-2020">Learn more and RSVP</a>    
+<a class="btn" href="http://bit.ly/umbau-march-2020">Learn more and RSVP</a>    
    
 **Panel Discussion**    
 Friday, March 27   
@@ -302,7 +302,8 @@ No donation is too small (or too big!). Any amount helps! umbau is a 501(c)(3) n
    
 # contact   
 
-<a class="btn" href="https://mailchi.mp/a73ff65d7dae/umbau">Subscribe</a>      
+**Get update from umbau straight to your inbox.**    
+<a class="btn" href="https://mailchi.mp/a73ff65d7dae/umbau">Join our community</a>      
 
 Umbau, Inc.   
 P. O. Box 2784   
