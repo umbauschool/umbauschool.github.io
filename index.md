@@ -11,16 +11,16 @@ layout: default
 </div>
 with renowned Viennese architect, Gregor Eichinger   
 
-Learn more and RSVP
-
+<a class="btn" href="bit.ly/umbau-march-2020">Learn more and RSVP</a>    
+   
 **Panel Discussion**    
 Friday, March 27   
 Staunton, VA   
 
-**Umbau Exposition** 
+**umbau Exposition**   
 Saturday, March 28    
 Washington, D.C.   
-RSVP required   
+_RSVP required_   
 
 **Lecture by Gregor Eichinger**  
 Monday, March 20    
