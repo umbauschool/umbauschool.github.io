@@ -9,20 +9,27 @@ layout: default
 <div>
 <img class="img--full" src="/img/world-premiere.png" alt="World Premiere">
 </div>
-### SAVE THE DATE
-_RSVP Required. Coming soon._
+with renowned Viennese architect, Gregor Eichinger   
 
-**Friday, March 27** Staunton, VA     
-**Saturday, March 28** Washington, D.C.     
-**Monday, March 30** Washington, D.C.    
+Learn more and RSVP
 
-We are starting something never before dreamed of. A new school for architecture. A whole new take on education. 11 months long, deep immersion, world changing. To get the word out, umbau is going on tour. And to celebrate the never before, we are bringing Gregor Eichinger in from Vienna, Austria. It will be a new form of Gregor Crawl, but this time in the Shenandoah Valley and Washington, D.C., in a series of group chats, a public lecture, panel discussion, and general wandering... we want you to join us.  
+**Panel Discussion**    
+Friday, March 27. Staunton, VA
+
+**Umbau Exposition** 
+Saturday, March 28. Washington, D.C.
+RSVP required
+
+**Lecture by Gregor Eichinger**  
+Monday, March 20. Washington, D.C.
+   
+We are starting something **never before** dreamed of. A new school for architecture. A whole new take on education. 11 months long, deep immersion, world changing. To get the word out, **umbau is going on tour**. And to celebrate the never before, we are bringing **Gregor Eichinger** in from Vienna, Austria. It will be a new form of **Gregor Crawl**, but this time in the **Shenandoah Valley** and **Washington, D.C.**, in a series of group chats, a public lecture, panel discussion, and general wandering... **we want you to join us.**  
 
 You former Viennese, you Krakowians, you supporters, you believers, you new ones who want to take the dare, you curious, you outliers, you...  
 
-Stay posted. Then come join us. Come enter the world of Landers. We are starting something never before dreamed of.  
+Stay posted. Then come join us. Come enter the world of **Landers**. We are starting something never before dreamed of.  
 
-Think volcano. Think comet. Think...  
+Think **volcano**. Think **comet**. Think...  
 
 ### BUILD PUCCINI
 
