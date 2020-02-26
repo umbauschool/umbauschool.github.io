@@ -303,7 +303,7 @@ No donation is too small (or too big!). Any amount helps! umbau is a 501(c)(3) n
 # contact   
 
 **Get updates from umbau straight to your inbox.**    
-Join our community!   
+Join our community.   
 <a class="btn" href="https://mailchi.mp/a73ff65d7dae/umbau">Subscribe</a>      
 
 Umbau, Inc.   
