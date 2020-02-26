@@ -302,8 +302,9 @@ No donation is too small (or too big!). Any amount helps! umbau is a 501(c)(3) n
    
 # contact   
 
-**Get update from umbau straight to your inbox.**    
-<a class="btn" href="https://mailchi.mp/a73ff65d7dae/umbau">Join our community</a>      
+**Get updates from umbau straight to your inbox.**    
+Join our community!   
+<a class="btn" href="https://mailchi.mp/a73ff65d7dae/umbau">Subscribe</a>      
 
 Umbau, Inc.   
 P. O. Box 2784   
