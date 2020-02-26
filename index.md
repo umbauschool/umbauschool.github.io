@@ -17,9 +17,9 @@ with renowned Viennese architect, Gregor Eichinger
 Friday, March 27   
 Staunton, VA   
 
-**umbau Exposition**   
-Saturday, March 28    
-Washington, D.C.   
+**umbau Exposition**     
+Saturday, March 28      
+Washington, D.C.    
 _RSVP required_   
 
 **Lecture by Gregor Eichinger**  
