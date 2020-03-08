@@ -76,6 +76,7 @@
     e.preventDefault();
 
     body.classList.remove('has-main-menu-showing');
+    e.target.blur();
 
     window.scrollTo({
       behavior: 'smooth',
@@ -87,6 +88,20 @@
   for (let i = 0; i < menuitems.length; i++) {
     menuitems[i].addEventListener('click', onMenuitemClick);
   }
+
+  const umbauScrollHeader = function () {
+    const sTop = window.scrollY;
+
+    if (sTop <= 20) {
+      body.classList.add('is-scroll-to-top');
+    } else {
+      body.classList.remove('is-scroll-to-top');
+    }
+
+    window.requestAnimationFrame(umbauScrollHeader);
+  };
+
+  umbauScrollHeader();
 
 
 

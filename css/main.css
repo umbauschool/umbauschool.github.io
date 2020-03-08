@@ -257,21 +257,50 @@ img {
 }
 
 .main-menu {
-  background-color: black;
   box-sizing: border-box;
-  display: none;
+  display: block;
   height: 100vh;
+  opacity: 0;
   padding: 38px 60px;
   padding-left: var(--outside-border-width);
+  pointer-events: none;
   position: fixed;
   top: 0;
   transform: translateZ(0);
+  transition: opacity 0.2s;
   width: 100%;
   z-index: 1000;
 }
 
+@media (min-width: 1000px) {
+  .is-scroll-to-top .main-menu {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .is-scroll-to-top .main-menu a {
+    color: black;
+  }
+}
+
 .has-main-menu-showing .main-menu {
   display: block;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.has-main-menu-showing .main-menu {
+  background-color: black;
+}
+
+.has-main-menu-showing .main-menu a {
+  color: white;
+}
+
+.has-main-menu-showing .main-menu a:focus,
+.has-main-menu-showing .main-menu a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  outline: none;
 }
 
 .main-menu ul {
@@ -288,12 +317,14 @@ img {
   line-height: 24px;
   margin: 0 0 0 -15px;
   padding: 10px 15px;
+  position: relative;
   text-decoration: none;
+  transition: color 0.2s;
 }
 
 .main-menu a:focus,
 .main-menu a:hover {
-  background-color: rgba(255, 255, 255, 0.2);
+  color: var(--red);
   outline: none;
 }
 
@@ -306,6 +337,7 @@ img {
 
   .main-menu ul {
     margin: -8px 18px;
+    margin-left: 0;
     text-align: right;
   }
 
@@ -315,12 +347,17 @@ img {
 
   .main-menu a {
     margin: 0 1px;
+    padding: 10px 12px;
   }
 }
 
 @media (min-width: 1000px) {
   .main-menu {
     padding-right: var(--outside-border-width);
+  }
+
+  .main-menu a {
+    padding: 10px 15px;
   }
 }
 
@@ -600,7 +637,7 @@ main .btn:hover {
 
 .person-card:hover .person-card__img,
 .person-card__img-wrap.in-view .person-card__img {
-  //* filter: blur(0); *//
+  /* filter: blur(0); */
   transform: scale(1);
 }
 
@@ -620,7 +657,7 @@ a.person-card:hover .person-card__website {
 }
 
 .person-card__img {
-  //* filter: blur(10px); *//
+  /* filter: blur(10px); */
   transform: scale(1.1);
   transition: filter .5s, transform .5s;
 }
