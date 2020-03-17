@@ -9,32 +9,16 @@ layout: default
 <div>
 <img class="img--full" src="/img/world-premiere.png" alt="World Premiere">
 </div>
-with renowned Viennese architect, Gregor Eichinger   
 
-<a class="btn" href="http://bit.ly/umbau-march-2020">Learn more and RSVP</a>    
-   
-**Panel Discussion**    
-Friday, March 27   
-Staunton, VA   
+Joining the global efforts to slow the spread of COVID-19, umbau is postponing the World Premiere. While the new event dates are yet to be determined, we are eager to meet you and share our growing vision. Now, we are actively designing new touchpoints through which we can engage in dialogue.   
+ 
+umbau recognizes this period of uncertainty as a time to provoke change, not hibernate. It is more essential than ever before to take ownership of our modes of education and practices; to break free of antiquated protocol and the systems that further the status quo. It is our collective responsibility to create change in our communities, organizations, and households.    
 
-**umbau Exposition**     
-Saturday, March 28      
-Washington, D.C.    
-_RSVP required_   
+We are resilient. We will persevere.   
 
-**Lecture by Gregor Eichinger**  
-Monday, March 20    
-Washington, D.C.   
-       
-We are starting something **never before** dreamed of. A new school for architecture. A whole new take on education. 11 months long, deep immersion, world changing. To get the word out, **umbau is going on tour**. And to celebrate the never before, we are bringing **Gregor Eichinger** in from Vienna, Austria. It will be a new form of **Gregor Crawl**, but this time in the **Shenandoah Valley** and **Washington, D.C.**, in a series of group chats, a public lecture, panel discussion, and general wandering... **we want you to join us.**  
+Thank you for your support and continued faith in umbau’s mission.   
 
-You former Viennese, you Krakowians, you supporters, you believers, you new ones who want to take the dare, you curious, you outliers, you...  
-
-Stay posted. Then come join us. Come enter the world of **Landers**. We are starting something never before dreamed of.  
-
-Think **volcano**. Think **comet**. Think...  
-
-### BUILD PUCCINI
+### BUILD PUCCINI    
 
 ***
 
