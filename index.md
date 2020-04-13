@@ -5,23 +5,6 @@
 layout: default
 ---
 
-# umbau world premiere
-<div>
-<img class="img--full" src="/img/world-premiere.png" alt="World Premiere">
-</div>
-
-Joining the global efforts to slow the spread of COVID-19, umbau is postponing the World Premiere. While the new event dates are yet to be determined, we are eager to meet you and share our growing vision. Now, we are actively designing new touchpoints through which we can engage in dialogue.   
- 
-umbau recognizes this period of uncertainty as a time to provoke change, not hibernate. It is more essential than ever before to take ownership of our modes of education and practices; to break free of antiquated protocol and the systems that further the status quo. It is our collective responsibility to create change in our communities, organizations, and households.    
-
-We are resilient. We will persevere.   
-
-Thank you for your support and continued faith in umbau’s mission.   
-
-### BUILD PUCCINI    
-
-***
-
 # umbau is an experiment into wonder    
 
 It is a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for twenty years and Kraków, Poland for five years. We have discovered ways into transformation and the miraculous.  
