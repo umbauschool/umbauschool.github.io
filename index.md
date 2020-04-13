@@ -79,7 +79,7 @@ Umbau will not offer degrees. You simply become a Lander. Lander is a title that
    
 ***  
 
-# ⊞ ⊟ <span style="color:red" a href="#">⊠</span> ⊡
+# ⊞ ⊟ <span style="color:red"><a href="/img/28_MARCH_2020.pdf">⊠</a></span> ⊡
 
 ***
    
