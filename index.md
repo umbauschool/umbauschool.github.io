@@ -78,13 +78,6 @@ Umbau as a school will operate at different speeds and rhythms, both long and sh
 Umbau will not offer degrees. You simply become a Lander. Lander is a title that is earned. Landers are trained to take the path of most resistance in a chaotic, ever-changing, world. Together we practice architecture differently. We value it as a means for us to explore, think holistically and reintroduce empathy.   
    
 ***  
-
-# ⊞ ⊟ <a href="/img/28_MARCH_2020.pdf" style="text-decoration: none">⊠</a> ⊡
-   
-   
-   
-   
-***
    
 **<span style="color:red">BUILD</span> P<span style="color:red">U</span>CCINI.**   
 _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture.
@@ -96,6 +89,10 @@ _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture
 ### NO DEGREES.    
    
 ***   
+
+# ⊞ ⊟ <a href="/img/28_MARCH_2020.pdf" style="text-decoration: none">⊠</a> ⊡
+   
+***
    
 ## Founding Director
 
