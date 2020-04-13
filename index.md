@@ -156,7 +156,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
     img="/img/justin.jpg"
     name="Justin Bernard"
     title="who the F$$$ knows"
-    bio="Philadelphia, Pennslyvania"
+    bio="Philadelphia, Pennsylvania"
     website="http://studioron.com"
 %}
 
@@ -277,4 +277,5 @@ P. O. Box 2784
 Staunton, VA 24402   
 <a href="mailto:info@umbauschool.org">info@umbauschool.org</a>   
 
-<a class="btn" href="https://www.instagram.com/umbaulanders">Instagram</a> <a class="btn" href="https://www.facebook.com/umbaulanders">Facebook</a>    
+<a class="btn" href="https://www.instagram.com/umbaulanders">Instagram</a> <a class="btn" href="https://www.facebook.com/umbaulanders">Facebook</a> <a class="btn" href="https://medium.com/@umbau    
+">Medium</a> 
