@@ -159,7 +159,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 {% include card.html
     img="/img/justin.jpg"
     name="Justin Bernard"
-    title="who the F$$$ knows"
+    title="explorer"
     bio="Philadelphia, Pennsylvania"
     website="http://studioron.com"
 %}
