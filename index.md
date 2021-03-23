@@ -7,20 +7,15 @@ layout: default
 
 # umbau is an experiment into wonder    
 
-We are a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating in Vienna, Austria for twenty years and Kraków, Poland for five years. We have discovered ways into transformation and the miraculous.  
-
-The Bauhaus started 100 years ago.  
-We are after the echo.  
-
-We are focused on cultivating our roots in America through Studio Shenandoah. We plan to do a radical housing project, monthly weekend workshops, traveling lectures, cultural immersions, and a world premiere. This year is for cracking open.  
+We are a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating studios in Vienna, Austria for twenty-one years, Kraków, Poland for six, and in the U.S. for one. We are discovering ways into transformation and the miraculous. 
 
 ***
 
 # healing architecture + education
         
-We see a major need for improvement in the spaces we live in and the education we participate in within the United States. We believe that spaces are an inherent part of how we experience the world around us and significantly impact our wellbeing—but our worn-out teaching practices and the current trend of painfully high tuition rates have forced many into creating and living in spaces that do not address their ecological impacts nor give us the quality of life we desire.   
+We see a need for improvement in both our living spaces and our systems of education. We believe that spaces are an inherent part of how we experience the world around us and significantly impact our wellbeing — but our current modes of thinking have forced many into living spaces that do not address our ecological impact nor give us the quality of life we desire.  
 
-We are at an exciting and pivotal moment in history where we have to respond to the impact humans have made on the natural environment and the missteps we have made in our educational system. The natural and built environment being damaged and uncared for should not be normal. Having years of college loans to pay off without having found a discipline that energizes you should not be normal. Umbau is tackling these challenges head-on.   
+We are at a pivotal moment in history where we have the opportunity to respond and repair, but we require a new mind.
 
 *** 
 
@@ -31,9 +26,7 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 ## vienna studio    
 
-**Vienna, Austria** / Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, learn from and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, wine farmers, singers, and architects in the world. This thoughtfully crafted program allows both designers and those without a design background to enter the type of thinking we practice at umbau.   
-   
-**2020 spring session closed**   
+**Vienna, Austria** / Vienna Studio is a five-week immersion in Viennese culture that allows students to observe, study and be inspired by the very best designers, artists, hatmakers, shoemakers, goldsmiths, violin makers, vintners, singers, and architects in the world. 
    
 <a class="btn" href="mailto:info@umbauschool.org?subject=Vienna Studio Inquiry">Request info</a>   
 
@@ -45,9 +38,7 @@ We are at an exciting and pivotal moment in history where we have to respond to 
    
 ## studio kraków   
 
-**Kraków, Poland** / Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence and recognize how Krakow, Poland has a rich history of utilizing posters as a vehicle for public conversation around the genuine needs and aspirations of society.   
-  
-**2020 summer session closed**    
+**Kraków, Poland** / Studio Kraków is a screen-printing workshop and poster exhibition. During this time, designers, architects, rappers, educators and artists regain creative confidence as they encounter a rich history of using posters to advance the aspirations of society.   
    
 <a class="btn" href="mailto:info@umbauschool.org?subject=Studio Krakow Inquiry">Request info</a>   
 
@@ -57,9 +48,7 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 ## studio shenandoah   
 
-**Staunton, Virginia, USA** / Studio Shenandoah is a permanent studio and open design education program that includes a series of public workshops, lectures and discussions and a long-term studio design project, _Staunton Werkbund._
-
-**2020 fall session closed**  
+**Staunton, Virginia, USA** / Studio Shenandoah is a design studio and open education program that includes an evolving series of workshops, lectures and discussions and long-term collaborative design projects. 
   
 <a class="btn" href="mailto:info@umbauschool.org?subject=Studio Shenandoah Inquiry">Request info</a>   
 
@@ -71,24 +60,16 @@ We are at an exciting and pivotal moment in history where we have to respond to 
 
 Umbau is to re-define the role of the architect, even the name. We will leave ‘architect’, and instead, breed **LANDERS**.   
 
-Umbau, a guerrilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms the educational system.   
+Umbau, a guerrilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms educational systems.   
 
-Umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. Umbau survives on collaboration to implement new solutions, produce transformation.    
-
-Umbau will not offer degrees. You simply become a Lander. Lander is a title that is earned. Landers are trained to take the path of most resistance in a chaotic, ever-changing, world. Together we practice architecture differently. We value it as a means for us to explore, think holistically and reintroduce empathy.   
+Umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. Umbau survives on collaboration.    
    
 ***  
    
 **<span style="color:red">BUILD</span> P<span style="color:red">U</span>CCINI.**   
 _puccini_ meaning a beautiful, a timeless, a sensuous, an emotional architecture.
-   
-***   
-   
-### NO TUITION.  
-### NO ACCREDITATION.   
-### NO DEGREES.    
-   
-***   
+
+***
 
 # ⊞ ⊟ <a href="/img/28_MARCH_2020.pdf" style="text-decoration: none">⊠</a> ⊡
    
@@ -249,7 +230,7 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 {% include card.html
     img="/img/z.jpg"
-    name="Z. Bryant"
+    name="Z Bryant"
     title="Agrarian"
     bio="VA"
     website="http://zbryant.com"
@@ -258,16 +239,6 @@ William Tate founded umbau in 2001 as an educational non-profit and guerilla stu
 
 </div>
   
-# support us   
-
-Want to help shape the spaces we live in and push for the revitalization of design education? Help fund umbau! 100% of your gift will go towards our tuition-free, environmentally-focused architecture program: Studio Shenandoah. We launched Studio Shenandoah in 2019 because we believe learning should be free and the current trend of painfully high tuition rates needs to come to a halt. We also saw a need for a school that truly designs for the natural environment. If you are compelled by our mission and value the importance of architecture, education, art, design, and sustainability, please donate and help us spread the Good.
-
-No donation is too small (or too big!). Any amount helps! umbau is a 501(c)(3) non-profit organization and all donations are tax-deductible.    
-
-<div class="deco-right"></div>     
-
-<a class="btn" href="https://secure.givelively.org/donate/umbau-inc">Donate</a>      
-
 ***   
    
 # contact   
