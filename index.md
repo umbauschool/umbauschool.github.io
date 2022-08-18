@@ -7,15 +7,15 @@ layout: default
 
 # umbau is an experiment into wonder    
 
-We are a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating studios in Vienna, Austria for twenty-one years, Kraków, Poland for six, and in the U.S. for one. We are discovering ways into transformation and the miraculous. 
+We are a guerrilla studio and radical design school working to re-define architecture and learning. We have been operating studios in Vienna, Austria, Kraków, Poland, and in the United States for over twenty years. We are discovering ways into the miraculous. 
 
 ***
 
 # healing architecture + education
         
-We see a need for improvement in both our living spaces and our systems of education. We believe that spaces are an inherent part of how we experience the world around us and significantly impact our wellbeing — but our current modes of thinking have forced many into living spaces that do not address our ecological impact nor give us the quality of life we desire.  
+We see a need for improvement in both our living spaces and our systems of education. We believe that spaces are an inherent part of how we experience the world and significantly impact our wellbeing. Our current modes of thinking have forced many into living spaces that do not address our ecological impact nor give us the quality of life we desire.  
 
-We are at a pivotal moment in history where we have the opportunity to respond and repair, but we require a new mind.
+We are at a pivotal moment in history and have the opportunity to respond and repair, but we require a new mind.
 
 *** 
 
@@ -62,7 +62,7 @@ Umbau is to re-define the role of the architect, even the name. We will leave �
 
 Umbau, a guerrilla studio and radical architecture and design school, is experimenting with other ways of doing. We are an unconventional school for unconventional times. Our emphasis is to breed a new way of thinking: one that savors uncertainty, thrives on disruption, and transforms educational systems.   
 
-Umbau as a school will operate at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. Umbau survives on collaboration.    
+Umbau as a school operates at different speeds and rhythms, both long and short. We investigate a range of disciplines through the creative process. Umbau survives on collaboration.    
    
 ***  
    
@@ -251,6 +251,3 @@ Umbau, Inc.
 P. O. Box 2784   
 Staunton, VA 24402   
 <a href="mailto:info@umbauschool.org">info@umbauschool.org</a>   
-
-<a class="btn" href="https://www.instagram.com/umbaulanders">Instagram</a> <a class="btn" href="https://www.facebook.com/umbaulanders">Facebook</a> <a class="btn" href="https://medium.com/@umbau    
-">Medium</a> 
