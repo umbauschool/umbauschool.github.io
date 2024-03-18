@@ -250,4 +250,3 @@ Join our community.
 Umbau, Inc.   
 P. O. Box 2784   
 Staunton, VA 24402   
-<a href="mailto:info@umbauschool.org">info@umbauschool.org</a>   
